@@ -145,26 +145,6 @@ rss:
       name: "Aave"
       url: "https://aave.mirror.xyz/feed/atom"
 
-    - id: "Alpha"
-      name: "Alpha Finance Lab"
-      url: "https://blog.alphafinance.io/rss/"
-
-    - id: "Angle"
-      name: "Angle Protocol - Medium"
-      url: "https://blog.angle.money/feed"
-
-    - id: "ArDrive"
-      name: "ArDrive"
-      url: "https://ardrive.io/feed/"
-
-    - id: "Askasha.org"
-      name: "Askasha.org Blog RSS Feed"
-      url: "https://akasha.org/rss.xml"
-
-    - id: "Augur"
-      name: "Augur Weekly"
-      url: "https://augur.substack.com/feed/"
-
     - id: "Bancor"
       name: "Bancor - Medium"
       url: "https://blog.bancor.network/feed/"
@@ -180,10 +160,6 @@ rss:
     - id: "Bitfinex"
       name: "Bitfinex blog"
       url: "http://blog.bitfinex.com/feed/"
-
-    - id: "BitGo"
-      name: "BitGo Blog - Medium"
-      url: "https://blog.bitgo.com/feed"
 
     - id: "BitMEX"
       name: "BitMEX Blog"
@@ -205,14 +181,6 @@ rss:
       name: "Blockstream"
       url: "https://blog.blockstream.com/rss/"
 
-    - id: "Blockware"
-      name: "Blockware Research & Publications - Blockware Solutions"
-      url: "https://www.blockwaresolutions.com/research-and-publications?format=rss"
-
-    - id: "Blog"
-      name: "Blog - Trust Machines"
-      url: "https://www.trustmachines.co/blog?format=rss"
-
     - id: "Blog"
       name: "Blog on Berty Technologies"
       url: "https://berty.tech/blog/index.xml"
@@ -224,10 +192,6 @@ rss:
     - id: "Boba"
       name: "Boba"
       url: "https://boba.network/feed/"
-
-    - id: "Brave"
-      name: "Brave Browser"
-      url: "https://brave.com/blog/feed"
 
     - id: "Caitlin"
       name: "Caitlin Long"
@@ -253,25 +217,9 @@ rss:
       name: "Chainlink"
       url: "https://blog.chain.link/rss/"
 
-    - id: "Chia"
-      name: "Chia Network"
-      url: "https://chia.net/feed.xml"
-
-    - id: "Circle"
-      name: "Circle Blog"
-      url: "https://www.circle.com/blog/rss.xml"
-
     - id: "CityDAO"
       name: "CityDAO"
       url: "http://city.mirror.xyz/feed/atom"
-
-    - id: "Clipper"
-      name: "Clipper"
-      url: "https://blog.clipper.exchange/rss"
-
-    - id: "clr.fund"
-      name: "clr.fund"
-      url: "http://blog.clr.fund/feed"
 
     - id: "Coin"
       name: "Coin Center"
@@ -281,30 +229,6 @@ rss:
       name: "Colony Blog"
       url: "https://blog.colony.io/rss/"
 
-    - id: "Concourse"
-      name: "Concourse Open"
-      url: "https://concourseopen.com/blog/feed"
-
-    - id: "ConsenSys"
-      name: "ConsenSys"
-      url: "https://feeds.feedburner.com/ConsenSys/posts"
-
-    - id: "ConsenSys"
-      name: "ConsenSys Media - Medium"
-      url: "https://media.consensys.net/feed"
-
-    - id: "Crypto.com"
-      name: "Crypto.com | Official Blog"
-      url: "https://blog.crypto.com/rss/"
-
-    - id: "Curve"
-      name: "Curve Finance"
-      url: "https://blog.curve.fi/feed"
-
-    - id: "Decentraland"
-      name: "Decentraland"
-      url: "https://decentraland.org/blog/feed.xml"
-
     - id: "Delphinus"
       name: "Delphinus Lab"
       url: "https://delphinuslab.com/feed/"
@@ -313,21 +237,9 @@ rss:
       name: "Deribit Insights"
       url: "https://blog.deribit.com/feed/"
 
-    - id: "dYdX"
-      name: "dYdX - The Integral"
-      url: "https://integral.dydx.exchange/rss/"
-
-    - id: "Edgeware"
-      name: "Edgeware"
-      url: "https://blog.edgewa.re/rss/"
-
     - id: "Electric"
       name: "Electric Coin Company"
       url: "https://electriccoin.co/feed/"
-
-    - id: "Enigma"
-      name: "Enigma - Medium"
-      url: "http://blog.enigma.co/rss"
 
     - id: "ENS"
       name: "ENS"
@@ -337,14 +249,6 @@ rss:
       name: "Enterprise Ethereum Alliance"
       url: "https://entethalliance.org/feed/"
 
-    - id: "EOSIO"
-      name: "EOSIO"
-      url: "https://eos.io/feed/"
-
-    - id: "ErisX"
-      name: "ErisX"
-      url: "https://www.erisx.com/feed/"
-
     - id: "Esprezzo"
       name: "Esprezzo Blog"
       url: "https://blog.esprezzo.io/rss.xml"
@@ -353,49 +257,13 @@ rss:
       name: "Ethereum Blog"
       url: "https://blog.ethereum.org/feed.xml"
 
-    - id: "Ethereum"
-      name: "Ethereum World Blog"
-      url: "https://blog.ethereum.world/rss/"
-
-    - id: "eToro"
-      name: "eToro"
-      url: "https://www.etoro.com/en-us/news-and-analysis/crypto/feed/"
-
-    - id: "Euler"
-      name: "Euler Newsletter"
-      url: "https://newsletter.euler.finance/feed"
-
-    - id: "Filecoin"
-      name: "Filecoin"
-      url: "https://filecoin.io/blog/feed/index.xml"
-
-    - id: "Fleek"
-      name: "Fleek Blog"
-      url: "https://blog.fleek.co/rss.xml"
-
-    - id: "Forta"
-      name: "Forta Network"
-      url: "https://forta.org/blog/feed"
-
     - id: "Frame"
       name: "Frame Labs"
       url: "https://blog.frame.sh/rss/"
 
-    - id: "Fuel"
-      name: "Fuel Labs"
-      url: "https://fuel-labs.ghost.io/rss/"
-
     - id: "Ghost"
       name: "Ghost"
       url: "https://ghost.org/changelog/rss/"
-
-    - id: "Gitcoin's"
-      name: "Gitcoin's Blog"
-      url: "https://gitcoin.co/blog/feed/"
-
-    - id: "Gnosis"
-      name: "Gnosis - Medium"
-      url: "https://blog.gnosis.pm/feed"
 
     - id: "Gnosis"
       name: "Gnosis Safe"
@@ -409,17 +277,9 @@ rss:
       name: "Grayscale Investments"
       url: "https://www.globenewswire.com/SubscribeToRss/uYBer3uzJgsFPGKc1jORaA%3d%3d"
 
-    - id: "GridPlus"
-      name: "GridPlus - Medium"
-      url: "https://blog.gridplus.io/feed"
-
     - id: "Hang"
       name: "Hang"
       url: "https://mirror.xyz/0x86D4b75B33989e04cfaA630d243642a7784e06ED/feed/atom"
-
-    - id: "Hermez"
-      name: "Hermez | Blog"
-      url: "https://blog.hermez.io/feed"
 
     - id: "Hop"
       name: "Hop"
@@ -589,22 +449,6 @@ rss:
       name: "Sigma Prime"
       url: "https://blog.sigmaprime.io/feeds/all.atom.xml"
 
-    - id: "SIMBA"
-      name: "SIMBA Chain Blog"
-      url: "https://blog.simbachain.com/blog/rss.xml"
-
-    - id: "Sismo"
-      name: "Sismo on Medium"
-      url: "https://blog.sismo.io/feed"
-
-    - id: "SKALE"
-      name: "SKALE Blog"
-      url: "https://skale.network/blog/rss"
-
-    - id: "slock.it"
-      name: "slock.it Blog - Medium"
-      url: "https://blog.slock.it/feed"
-
     - id: "Snake"
       name: "Snake Charmers"
       url: "https://snakecharmers.ethereum.org/rss/"
@@ -769,26 +613,6 @@ rss:
       name: "Trustnodes"
       url: "https://www.trustnodes.com/feed"
 
-    - id: "🔐Kurt"
-      name: "🔐Kurt Pan’s Crypto Weekly"
-      url: "https://www.getrevue.co/profile/kurtpan?format=rss"
-
-    - id: "0xSoros"
-      name: "0xSoros (Chinese)"
-      url: "https://0xsoros.substack.com/feed"
-
-    - id: "a16z"
-      name: "a16z web3 weekly"
-      url: "https://a16zcrypto.substack.com/feed"
-
-    - id: "AllCoreDevs"
-      name: "AllCoreDevs Updates  — Mirror"
-      url: "https://tim.submirror.xyz/"
-
-    - id: "Bitcoin"
-      name: "Bitcoin Magazine PRO®"
-      url: "https://bmpro.substack.com/feed"
-
     - id: "Bitcoin"
       name: "Bitcoin Optech"
       url: "https://bitcoinops.org/feed.xml"
@@ -865,10 +689,6 @@ rss:
       name: "StarkNet CN (Chinese)"
       url: "https://starknetzh.substack.com/feed"
 
-    - id: "TechFlow"
-      name: "TechFlow (Chinese)"
-      url: "https://techflowpost.substack.com/feed"
-
     - id: "The"
       name: "The Daily Gwei"
       url: "https://thedailygwei.substack.com/feed"
@@ -877,21 +697,9 @@ rss:
       name: "The Defiant"
       url: "https://thedefiant.substack.com/feed"
 
-    - id: "un.Block"
-      name: "un.Block 周报"
-      url: "https://unblock256.substack.com/feed"
-
-    - id: "Week"
-      name: "Week in Ethereum News"
-      url: "https://weekinethereumnews.com/feed/"
-
     - id: "ZK"
       name: "ZK Whiteboard Sessions"
       url: "https://whiteboard.zkhack.dev/feed/"
-
-    - id: "zkMesh"
-      name: "zkMesh"
-      url: "https://zkmesh.substack.com/feed"
 
     - id: "Alpha-wallet-ios"
       name: "Alpha-wallet-ios"
@@ -1040,10 +848,6 @@ rss:
     - id: "hubble-contracts"
       name: "hubble-contracts"
       url: "https://github.com/thehubbleproject/hubble-contracts/releases.atom"
-
-    - id: "Huff"
-      name: "Huff (Low level language for EVM)"
-      url: "https://github.com/huff-language/huffc/releases.atom"
 
     - id: "ibc-go"
       name: "ibc-go"
@@ -1684,7 +1488,6 @@ rss:
     - id: "Ethereum"
       name: "Ethereum Research - Latest topics"
       url: "https://ethresear.ch/latest.rss"
-
 
     # 自定义源示例
     # - id: "custom-feed"
