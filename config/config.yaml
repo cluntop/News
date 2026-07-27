@@ -185,10 +185,6 @@ rss:
       name: "Bluesky"
       url: "https://blueskyweb.xyz/rss.xml"
 
-    - id: "Boba"
-      name: "Boba"
-      url: "https://boba.network/feed/"
-
     - id: "Casa"
       name: "Casa Blog"
       url: "https://blog.keys.casa/rss/"
@@ -301,10 +297,6 @@ rss:
       name: "Snake Charmers"
       url: "https://snakecharmers.ethereum.org/rss/"
 
-    - id: "Solidity"
-      name: "Solidity Blog"
-      url: "https://solidity.ethereum.org/feed.xml"
-
     - id: "Spruce"
       name: "Spruce"
       url: "https://blog.spruceid.com/rss"
@@ -328,14 +320,6 @@ rss:
     - id: "The4"
       name: "The Ceramic Blog"
       url: "https://blog.ceramic.network/rss/"
-
-    - id: "The5"
-      name: "The DeversiFi Blog"
-      url: "https://blog.ethfinex.com/rss/"
-
-    - id: "The7"
-      name: "The Optimistic Dev Blog"
-      url: "https://dev.optimism.io/rss/"
 
     - id: "Umbrel"
       name: "Umbrel Blog - Medium"
@@ -396,10 +380,6 @@ rss:
     - id: "O’Reilly"
       name: "O’Reilly Radar"
       url: "http://www.oreilly.com/radar/feed/index.xml"
-
-    - id: "The1"
-      name: "The Defiant"
-      url: "https://thedefiant.substack.com/feed"
 
     - id: "ZK"
       name: "ZK Whiteboard Sessions"
