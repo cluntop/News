@@ -140,9 +140,6 @@ rss:
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
-    - id: "Aave"
-      name: "Aave"
-      url: "https://aave.mirror.xyz/feed/atom"
 
     - id: "Bancor"
       name: "Bancor - Medium"
@@ -192,10 +189,6 @@ rss:
       name: "Boba"
       url: "https://boba.network/feed/"
 
-    - id: "Caitlin"
-      name: "Caitlin Long"
-      url: "https://caitlin-long.com/feed/"
-
     - id: "Casa"
       name: "Casa Blog"
       url: "https://blog.keys.casa/rss/"
@@ -207,10 +200,6 @@ rss:
     - id: "Celestia"
       name: "Celestia Blog"
       url: "https://blog.celestia.org/rss/"
-
-    - id: "ChainFeeds"
-      name: "ChainFeeds"
-      url: "http://mirror.xyz/chainfeeds.eth/feed/atom"
 
     - id: "Coin"
       name: "Coin Center"
@@ -231,10 +220,6 @@ rss:
     - id: "Electric"
       name: "Electric Coin Company"
       url: "https://electriccoin.co/feed/"
-
-    - id: "ENS"
-      name: "ENS"
-      url: "https://ens.mirror.xyz/feed/atom"
 
     - id: "Enterprise"
       name: "Enterprise Ethereum Alliance"
@@ -264,10 +249,6 @@ rss:
       name: "Grayscale Investments"
       url: "https://www.globenewswire.com/SubscribeToRss/uYBer3uzJgsFPGKc1jORaA%3d%3d"
 
-    - id: "Hyperledger"
-      name: "Hyperledger"
-      url: "https://www.hyperledger.org/feed"
-
     - id: "IPFS"
       name: "IPFS Blog & News"
       url: "https://blog.ipfs.io/index.xml"
@@ -284,10 +265,6 @@ rss:
       name: "KYVE - Medium"
       url: "https://blog.kyve.network/feed"
 
-    - id: "LEVERJ"
-      name: "LEVERJ - Medium"
-      url: "https://blog.leverj.io/feed"
-
     - id: "Moralis"
       name: "Moralis"
       url: "https://moralis.io/blog/feed/"
@@ -299,10 +276,6 @@ rss:
     - id: "nickler's"
       name: "nickler's"
       url: "https://nickler.ninja/atom.xml"
-
-    - id: "NODE"
-      name: "NODE from Voyager"
-      url: "https://www.investvoyager.com/blog/rss"
 
     - id: "OpenNode"
       name: "OpenNode Blog"
@@ -320,14 +293,6 @@ rss:
       name: "PayPal Newsroom"
       url: "https://newsroom.paypal-corp.com/news?pagetemplate=rss"
 
-    - id: "Scroll"
-      name: "Scroll"
-      url: "https://mirror.xyz/scroll.eth/feed/atom"
-
-    - id: "Sia"
-      name: "Sia and Skynet Blog - Medium"
-      url: "https://blog.sia.tech/feed"
-
     - id: "Sigma"
       name: "Sigma Prime"
       url: "https://blog.sigmaprime.io/feeds/all.atom.xml"
@@ -335,10 +300,6 @@ rss:
     - id: "Snake"
       name: "Snake Charmers"
       url: "https://snakecharmers.ethereum.org/rss/"
-
-    - id: "Snapshot"
-      name: "Snapshot Labs"
-      url: "https://snapshot.mirror.xyz/feed/atom"
 
     - id: "Solidity"
       name: "Solidity Blog"
@@ -372,29 +333,13 @@ rss:
       name: "The DeversiFi Blog"
       url: "https://blog.ethfinex.com/rss/"
 
-    - id: "The6"
-      name: "The Optimism Collective"
-      url: "https://optimism.mirror.xyz/feed/atom"
-
     - id: "The7"
       name: "The Optimistic Dev Blog"
       url: "https://dev.optimism.io/rss/"
 
-    - id: "The8"
-      name: "The Rook Blog"
-      url: "https://blog.rook.fi/rss/"
-
     - id: "Umbrel"
       name: "Umbrel Blog - Medium"
       url: "https://blog.getumbrel.com/feed"
-
-    - id: "Utopia"
-      name: "Utopia Labs"
-      url: "https://mirror.xyz/utopialabs.eth/feed/atom"
-
-    - id: "Wasabi"
-      name: "Wasabi Wallet Blog"
-      url: "https://blog.wasabiwallet.io/rss/"
 
     - id: "Xage"
       name: "Xage Security"
@@ -432,10 +377,6 @@ rss:
       name: "Decrypt"
       url: "https://decryptmedia.com/feed/"
 
-    - id: "ECN"
-      name: "ECN (Chinese)"
-      url: "https://news.ethereum.cn/rss.xml"
-
     - id: "Hacker"
       name: "Hacker Noon"
       url: "https://hackernoon.com/feed"
@@ -444,10 +385,6 @@ rss:
       name: "TechCrunch - Bitcoin"
       url: "https://techcrunch.com/tag/bitcoin/feed"
 
-    - id: "TechFlow"
-      name: "TechFlow (Chinese)"
-      url: "https://techflowpost.mirror.xyz/feed/atom"
-
     - id: "Trustnodes"
       name: "Trustnodes"
       url: "https://www.trustnodes.com/feed"
@@ -455,26 +392,6 @@ rss:
     - id: "Bitcoin"
       name: "Bitcoin Optech"
       url: "https://bitcoinops.org/feed.xml"
-
-    - id: "DeFi"
-      name: "DeFi Weekly"
-      url: "https://defiweekly.substack.com/feed"
-
-    - id: "Dove"
-      name: "Dove Dispatch"
-      url: "https://dovemountain.substack.com/feed"
-
-    - id: "EthHub"
-      name: "EthHub"
-      url: "https://ethhub.substack.com/feed"
-
-    - id: "mcdao"
-      name: "mcdao"
-      url: "https://mcdao.mirror.xyz/feed/atom"
-
-    - id: "MinerUpdate"
-      name: "MinerUpdate"
-      url: "https://minerupdate.substack.com/feed"
 
     - id: "O’Reilly"
       name: "O’Reilly Radar"
@@ -579,10 +496,6 @@ rss:
     - id: "Eclair"
       name: "Eclair"
       url: "https://github.com/ACINQ/eclair/releases.atom"
-
-    - id: "EEA"
-      name: "EEA L2"
-      url: "https://github.com/eea-oasis/L2/releases.atom"
 
     - id: "Erigon"
       name: "Erigon"
@@ -925,10 +838,6 @@ rss:
       url: "https://github.com/zkSNACKs/WalletWasabi/releases.atom"
 
     - id: "Release"
-      name: "Release notes from zcash-ios-wallet"
-      url: "https://github.com/zcash/zcash-ios-wallet/releases.atom"
-
-    - id: "Release"
       name: "Release notes from zebra"
       url: "https://github.com/ZcashFoundation/zebra/releases.atom"
 
@@ -1068,10 +977,6 @@ rss:
       name: "Cypherpunk Cogitations"
       url: "https://blog.lopp.net/rss/"
 
-    - id: "Dan"
-      name: "Dan Finlay"
-      url: "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/feed/atom"
-
     - id: "Dankrad"
       name: "Dankrad Feist"
       url: "https://dankradfeist.de/feed.xml"
@@ -1080,25 +985,13 @@ rss:
       name: "Elliptic Blog"
       url: "https://www.elliptic.co/blog/rss.xml"
 
-    - id: "freeyao"
-      name: "freeyao (Chinese)"
-      url: "https://mirror.xyz/0xbeC73ba0817403cd11C11bE891D671EA30443562/feed/atom"
-
     - id: "Konrad"
       name: "Konrad S. Graf"
       url: "http://feeds.feedburner.com/Blog-KonradSGraf"
 
-    - id: "Linda"
-      name: "Linda Xie"
-      url: "https://linda.mirror.xyz/feed/atom"
-
     - id: "Luyao"
       name: "Luyao Zhang (Chinese)"
       url: "https://zhangluyao.com/index.xml"
-
-    - id: "Lyn"
-      name: "Lyn Alden"
-      url: "https://www.lynalden.com/feed/"
 
     - id: "Newcomer"
       name: "Newcomer"
@@ -1112,14 +1005,6 @@ rss:
       name: "palkeo"
       url: "https://www.palkeo.com/blog/atom.xml"
 
-    - id: "Placeholder"
-      name: "Placeholder Blog - Placeholder"
-      url: "https://www.placeholder.vc/blog?format=RSS"
-
-    - id: "polynya"
-      name: "polynya"
-      url: "https://polynya.mirror.xyz/feed/atom"
-
     - id: "samczsun"
       name: "samczsun"
       url: "https://samczsun.com/rss/"
@@ -1132,17 +1017,9 @@ rss:
       name: "Unenumerated"
       url: "https://unenumerated.blogspot.com/feeds/posts/default"
 
-    - id: "Vitalik"
-      name: "Vitalik Buterin"
-      url: "https://vitalik.ca//./feed.xml"
-
     - id: "Woobull"
       name: "Woobull"
       url: "https://woobull.com/rss/"
-
-    - id: "Wrong"
-      name: "Wrong A Lot (Zee Prime Capital)"
-      url: "https://wrongalot.substack.com/feed"
 
     - id: "a16z"
       name: "a16z Podcast"
@@ -1171,10 +1048,6 @@ rss:
     - id: "Uncommon"
       name: "Uncommon Core by Su Zhu and Hasu"
       url: "https://uncommoncore.co/feed/"
-
-    - id: "Up"
-      name: "Up Only"
-      url: "https://uponly.tv/feed/"
 
     - id: "Web3无名说"
       name: "Web3无名说"
