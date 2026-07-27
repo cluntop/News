@@ -134,202 +134,62 @@ rss:
     - id: "ruanyifeng"
       name: "阮一峰的网络日志"
       url: "http://www.ruanyifeng.com/blog/atom.xml"
-      enabled: false                  # 禁用
+      #enabled: false                  # 禁用
       # max_age_days: 3               # 示例：推送 3 天内的文章（更新较慢的博客）
      
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "0x Blog - Medium"
-      name: "0x Blog - Medium"
-      url: "https://blog.0xproject.com/feed"
-
-    - id: "1inch exchange on Medium"
-      name: "1inch exchange on Medium"
-      url: "https://medium.com/feed/@1inch-exchange"
-
-    - id: "2key - Medium"
-      name: "2key - Medium"
-      url: "https://medium.com/feed/2key"
-
     - id: "Aave"
       name: "Aave"
       url: "https://aave.mirror.xyz/feed/atom"
 
-    - id: "Aave Blog - Medium"
-      name: "Aave Blog - Medium"
-      url: "https://medium.com/feed/aave"
-
-    - id: "ACINQ on Medium"
-      name: "ACINQ on Medium"
-      url: "https://medium.com/feed/@ACINQ"
-
-    - id: "Alchemist on Medium"
-      name: "Alchemist on Medium"
-      url: "https://medium.com/feed/@alchemistcoin"
-
-    - id: "Alchemix Finance on Medium"
-      name: "Alchemix Finance on Medium"
-      url: "https://medium.com/feed/@alchemixfi"
-
-    - id: "Algorand - Medium"
-      name: "Algorand - Medium"
-      url: "https://medium.com/feed/algorand"
-
-    - id: "Alkemi Network - Medium"
-      name: "Alkemi Network - Medium"
-      url: "https://medium.com/feed/alkemi"
-
-    - id: "Alliance DAO - Medium"
-      name: "Alliance DAO - Medium"
-      url: "https://medium.com/feed/defi-alliance"
-
-    - id: "Alpha Finance Lab"
+    - id: "Alpha"
       name: "Alpha Finance Lab"
       url: "https://blog.alphafinance.io/rss/"
 
-    - id: "AltLayer"
-      name: "AltLayer"
-      url: "https://medium.com/feed/@altlayer"
-
-    - id: "Anchorage Digital - Medium"
-      name: "Anchorage Digital - Medium"
-      url: "https://medium.com/feed/anchorage"
-
-    - id: "Angle Protocol - Medium"
+    - id: "Angle"
       name: "Angle Protocol - Medium"
       url: "https://blog.angle.money/feed"
-
-    - id: "Anoma - Medium"
-      name: "Anoma - Medium"
-      url: "https://medium.com/feed/anomanetwork"
-
-    - id: "Apifiny - Medium"
-      name: "Apifiny - Medium"
-      url: "https://medium.com/feed/apifiny"
-
-    - id: "Aptos"
-      name: "Aptos"
-      url: "https://aptoslabs.medium.com/feed"
-
-    - id: "APWine Finance on Medium"
-      name: "APWine Finance on Medium"
-      url: "https://medium.com/feed/@apwine"
-
-    - id: "Arcana Network on Medium"
-      name: "Arcana Network on Medium"
-      url: "https://medium.com/feed/@arcana-network"
-
-    - id: "Archer Team on Medium"
-      name: "Archer Team on Medium"
-      url: "https://medium.com/feed/@archerdao"
 
     - id: "ArDrive"
       name: "ArDrive"
       url: "https://ardrive.io/feed/"
 
-    - id: "Argent - Medium"
-      name: "Argent - Medium"
-      url: "https://medium.com/feed/argenthq"
-
-    - id: "Arianee - Medium"
-      name: "Arianee - Medium"
-      url: "https://medium.com/feed/arianee"
-
-    - id: "Arweave Project on Medium"
-      name: "Arweave Project on Medium"
-      url: "https://medium.com/feed/@arweave"
-
-    - id: "Askasha.org Blog RSS Feed"
+    - id: "Askasha.org"
       name: "Askasha.org Blog RSS Feed"
       url: "https://akasha.org/rss.xml"
 
-    - id: "Atvanguard on Medium"
-      name: "Atvanguard on Medium"
-      url: "https://medium.com/feed/@atvanguard"
-
-    - id: "Augur Weekly"
+    - id: "Augur"
       name: "Augur Weekly"
       url: "https://augur.substack.com/feed/"
 
-    - id: "Authereum - Medium"
-      name: "Authereum - Medium"
-      url: "https://medium.com/feed/authereum"
-
-    - id: "Automata Network on Medium"
-      name: "Automata Network on Medium"
-      url: "https://medium.com/feed/@automatanetwork"
-
-    - id: "Ava Labs on Medium"
-      name: "Ava Labs on Medium"
-      url: "https://medium.com/feed/@avalabs"
-
-    - id: "Avalanche on Medium"
-      name: "Avalanche on Medium"
-      url: "https://medium.com/feed/@avalancheavax"
-
-    - id: "Aztec Network - Medium"
-      name: "Aztec Network - Medium"
-      url: "https://medium.com/feed/aztec-protocol"
-
-    - id: "Babylon.finance - Medium"
-      name: "Babylon.finance - Medium"
-      url: "https://medium.com/feed/babylon-finance"
-
-    - id: "Badger DAO 🦡 on Medium"
-      name: "Badger DAO 🦡 on Medium"
-      url: "https://medium.com/feed/@badgerdao"
-
-    - id: "Bakkt Blog - Medium"
-      name: "Bakkt Blog - Medium"
-      url: "https://medium.com/feed/bakkt-blog"
-
-    - id: "Balancer Protocol - Medium"
-      name: "Balancer Protocol - Medium"
-      url: "https://medium.com/feed/balancer-protocol"
-
-    - id: "Bancor - Medium"
+    - id: "Bancor"
       name: "Bancor - Medium"
       url: "https://blog.bancor.network/feed/"
-
-    - id: "BanklessDAO - Medium"
-      name: "BanklessDAO - Medium"
-      url: "https://medium.com/feed/bankless-dao"
-
-    - id: "BarnBridge - Medium"
-      name: "BarnBridge - Medium"
-      url: "https://medium.com/feed/barnbridge"
-
-    - id: "BEAM Privacy - Medium"
-      name: "BEAM Privacy - Medium"
-      url: "https://medium.com/feed/beam-mw"
-
-    - id: "BENQI on Medium"
-      name: "BENQI on Medium"
-      url: "https://medium.com/feed/@benqifinance"
 
     - id: "Bisq"
       name: "Bisq"
       url: "https://bisq.network/blog/feed.atom"
 
-    - id: "Bitcoin Core releases"
+    - id: "Bitcoin"
       name: "Bitcoin Core releases"
       url: "https://bitcoin.org/en/rss/releases.rss"
 
-    - id: "Bitfinex blog"
+    - id: "Bitfinex"
       name: "Bitfinex blog"
       url: "http://blog.bitfinex.com/feed/"
 
-    - id: "BitGo Blog - Medium"
+    - id: "BitGo"
       name: "BitGo Blog - Medium"
       url: "https://blog.bitgo.com/feed"
 
-    - id: "BitMEX Blog"
+    - id: "BitMEX"
       name: "BitMEX Blog"
       url: "https://blog.bitmex.com/feed/"
 
-    - id: "BitMEX Blog (Chinese)"
+    - id: "BitMEX"
       name: "BitMEX Blog (Chinese)"
       url: "https://blog.bitmex.com/feed/?lang=zh_CN"
 
@@ -337,113 +197,53 @@ rss:
       name: "Bitquery"
       url: "https://bitquery.io/feed"
 
-    - id: "Bitwise Asset Management - Medium"
-      name: "Bitwise Asset Management - Medium"
-      url: "https://medium.com/feed/bitwise-asset-management"
-
-    - id: "Blockchain.com"
-      name: "Blockchain.com"
-      url: "https://medium.com/feed/blockchain"
-
-    - id: "Blockfolio on Medium"
-      name: "Blockfolio on Medium"
-      url: "https://medium.com/feed/@Blockfolio"
-
     - id: "BlockNative"
       name: "BlockNative"
       url: "https://blog.blocknative.com/blog/rss.xml"
-
-    - id: "BlockRocket - Medium"
-      name: "BlockRocket - Medium"
-      url: "https://medium.com/feed/blockrocket"
-
-    - id: "BlocksetHQ - Medium"
-      name: "BlocksetHQ - Medium"
-      url: "https://medium.com/feed/blocksethq"
 
     - id: "Blockstream"
       name: "Blockstream"
       url: "https://blog.blockstream.com/rss/"
 
-    - id: "Blockstream on Medium"
-      name: "Blockstream on Medium"
-      url: "https://medium.com/feed/@blockstream"
-
-    - id: "BlockWallet on Medium"
-      name: "BlockWallet on Medium"
-      url: "https://medium.com/feed/@blockwallet"
-
-    - id: "Blockware Research & Publications - Blockware Solutions"
+    - id: "Blockware"
       name: "Blockware Research & Publications - Blockware Solutions"
       url: "https://www.blockwaresolutions.com/research-and-publications?format=rss"
 
-    - id: "Blog - Trust Machines"
+    - id: "Blog"
       name: "Blog - Trust Machines"
       url: "https://www.trustmachines.co/blog?format=rss"
 
-    - id: "Blog on Berty Technologies"
+    - id: "Blog"
       name: "Blog on Berty Technologies"
       url: "https://berty.tech/blog/index.xml"
-
-    - id: "bloXroute Team on Medium"
-      name: "bloXroute Team on Medium"
-      url: "https://medium.com/feed/@bloxroutelabs"
 
     - id: "Bluesky"
       name: "Bluesky"
       url: "https://blueskyweb.xyz/rss.xml"
 
-    - id: "bluewallet - Medium"
-      name: "bluewallet - Medium"
-      url: "https://medium.com/feed/bluewallet"
-
     - id: "Boba"
       name: "Boba"
       url: "https://boba.network/feed/"
 
-    - id: "Borderless Capital on Medium"
-      name: "Borderless Capital on Medium"
-      url: "https://medium.com/feed/@borderlesscapital"
-
-    - id: "Bounce.finance on Medium"
-      name: "Bounce.finance on Medium"
-      url: "https://medium.com/feed/@bouncefinance"
-
-    - id: "Brave Browser"
+    - id: "Brave"
       name: "Brave Browser"
       url: "https://brave.com/blog/feed"
 
-    - id: "Breez Technology - Medium"
-      name: "Breez Technology - Medium"
-      url: "https://medium.com/feed/breez-technology"
-
-    - id: "Caitlin Long"
+    - id: "Caitlin"
       name: "Caitlin Long"
       url: "https://caitlin-long.com/feed/"
 
-    - id: "Cartesi - Medium"
-      name: "Cartesi - Medium"
-      url: "https://medium.com/feed/cartesi"
-
-    - id: "Casa Blog"
+    - id: "Casa"
       name: "Casa Blog"
       url: "https://blog.keys.casa/rss/"
 
-    - id: "Celer Network"
+    - id: "Celer"
       name: "Celer Network"
       url: "https://blog.celer.network/feed/"
 
-    - id: "Celestia Blog"
+    - id: "Celestia"
       name: "Celestia Blog"
       url: "https://blog.celestia.org/rss/"
-
-    - id: "Centre blog - Medium"
-      name: "Centre blog - Medium"
-      url: "https://medium.com/feed/centre-blog"
-
-    - id: "Centrifuge - Medium"
-      name: "Centrifuge - Medium"
-      url: "https://medium.com/feed/centrifuge"
 
     - id: "ChainFeeds"
       name: "ChainFeeds"
@@ -453,23 +253,11 @@ rss:
       name: "Chainlink"
       url: "https://blog.chain.link/rss/"
 
-    - id: "ChainSafe - Medium"
-      name: "ChainSafe - Medium"
-      url: "https://medium.com/feed/chainsafe-systems"
-
-    - id: "ChainSecurity - Medium"
-      name: "ChainSecurity - Medium"
-      url: "https://medium.com/feed/chainsecurity"
-
-    - id: "Charm - Medium"
-      name: "Charm - Medium"
-      url: "https://medium.com/feed/charmfinance"
-
-    - id: "Chia Network"
+    - id: "Chia"
       name: "Chia Network"
       url: "https://chia.net/feed.xml"
 
-    - id: "Circle Blog"
+    - id: "Circle"
       name: "Circle Blog"
       url: "https://www.circle.com/blog/rss.xml"
 
@@ -485,115 +273,47 @@ rss:
       name: "clr.fund"
       url: "http://blog.clr.fund/feed"
 
-    - id: "CMT Digital Limited on Medium"
-      name: "CMT Digital Limited on Medium"
-      url: "https://medium.com/feed/@CMTDigitalLtd"
-
-    - id: "Coin Center"
+    - id: "Coin"
       name: "Coin Center"
       url: "https://www.coincenter.org/feed"
 
-    - id: "Colony Blog"
+    - id: "Colony"
       name: "Colony Blog"
       url: "https://blog.colony.io/rss/"
 
-    - id: "Compound - Medium"
-      name: "Compound - Medium"
-      url: "https://medium.com/feed/compound-finance"
-
-    - id: "Concourse Open"
+    - id: "Concourse"
       name: "Concourse Open"
       url: "https://concourseopen.com/blog/feed"
-
-    - id: "Connext - Medium"
-      name: "Connext - Medium"
-      url: "https://medium.com/feed/connext"
 
     - id: "ConsenSys"
       name: "ConsenSys"
       url: "https://feeds.feedburner.com/ConsenSys/posts"
 
-    - id: "ConsenSys Media - Medium"
+    - id: "ConsenSys"
       name: "ConsenSys Media - Medium"
       url: "https://media.consensys.net/feed"
 
-    - id: "Convergence Finance on Medium"
-      name: "Convergence Finance on Medium"
-      url: "https://medium.com/feed/@convergencefinance"
-
-    - id: "Crypto.com | Official Blog"
+    - id: "Crypto.com"
       name: "Crypto.com | Official Blog"
       url: "https://blog.crypto.com/rss/"
 
-    - id: "Curve Finance"
+    - id: "Curve"
       name: "Curve Finance"
       url: "https://blog.curve.fi/feed"
-
-    - id: "DAOfi - Medium"
-      name: "DAOfi - Medium"
-      url: "https://medium.com/feed/daofi"
-
-    - id: "Dapper Labs on Medium"
-      name: "Dapper Labs on Medium"
-      url: "https://medium.com/feed/@hellodapper"
 
     - id: "Decentraland"
       name: "Decentraland"
       url: "https://decentraland.org/blog/feed.xml"
 
-    - id: "Defi Lab on Medium"
-      name: "Defi Lab on Medium"
-      url: "https://medium.com/feed/@defi-lab"
-
-    - id: "DeFi Saver - Medium"
-      name: "DeFi Saver - Medium"
-      url: "https://medium.com/feed/defi-saver"
-
-    - id: "DeGate Team on Medium"
-      name: "DeGate Team on Medium"
-      url: "https://medium.com/feed/@degate"
-
-    - id: "DEGO on Medium"
-      name: "DEGO on Medium"
-      url: "https://medium.com/feed/@degofinance"
-
-    - id: "Delphinus Lab"
+    - id: "Delphinus"
       name: "Delphinus Lab"
       url: "https://delphinuslab.com/feed/"
 
-    - id: "Deribit Insights"
+    - id: "Deribit"
       name: "Deribit Insights"
       url: "https://blog.deribit.com/feed/"
 
-    - id: "DerivaDEX - Medium"
-      name: "DerivaDEX - Medium"
-      url: "https://medium.com/feed/derivadex"
-
-    - id: "DFINITY on Medium"
-      name: "DFINITY on Medium"
-      url: "https://medium.com/feed/@dfinity"
-
-    - id: "dForce - Medium"
-      name: "dForce - Medium"
-      url: "https://medium.com/feed/dforcenet"
-
-    - id: "dHEDGE on Medium"
-      name: "dHEDGE on Medium"
-      url: "https://medium.com/feed/@dhedgeorg"
-
-    - id: "DIA Insights - Medium"
-      name: "DIA Insights - Medium"
-      url: "https://medium.com/feed/dia-insights"
-
-    - id: "DMM DAO - Medium"
-      name: "DMM DAO - Medium"
-      url: "https://medium.com/feed/dmm-dao"
-
-    - id: "DuckDAO - Medium"
-      name: "DuckDAO - Medium"
-      url: "https://medium.com/feed/duckdao"
-
-    - id: "dYdX - The Integral"
+    - id: "dYdX"
       name: "dYdX - The Integral"
       url: "https://integral.dydx.exchange/rss/"
 
@@ -601,23 +321,11 @@ rss:
       name: "Edgeware"
       url: "https://blog.edgewa.re/rss/"
 
-    - id: "EGL on Medium"
-      name: "EGL on Medium"
-      url: "https://medium.com/feed/@eglvote"
-
-    - id: "Electric Coin Company"
+    - id: "Electric"
       name: "Electric Coin Company"
       url: "https://electriccoin.co/feed/"
 
-    - id: "Electron Labs - Medium"
-      name: "Electron Labs - Medium"
-      url: "https://medium.com/feed/electron-labs"
-
-    - id: "Element Finance - Medium"
-      name: "Element Finance - Medium"
-      url: "https://medium.com/feed/element-finance"
-
-    - id: "Enigma - Medium"
+    - id: "Enigma"
       name: "Enigma - Medium"
       url: "http://blog.enigma.co/rss"
 
@@ -625,155 +333,71 @@ rss:
       name: "ENS"
       url: "https://ens.mirror.xyz/feed/atom"
 
-    - id: "EnsoFinance - Medium"
-      name: "EnsoFinance - Medium"
-      url: "https://medium.com/feed/ensofinance"
-
-    - id: "Enterprise Ethereum Alliance"
+    - id: "Enterprise"
       name: "Enterprise Ethereum Alliance"
       url: "https://entethalliance.org/feed/"
-
-    - id: "Enzyme - Medium"
-      name: "Enzyme - Medium"
-      url: "https://medium.com/feed/melonprotocol"
 
     - id: "EOSIO"
       name: "EOSIO"
       url: "https://eos.io/feed/"
 
-    - id: "Equilibrium - Medium"
-      name: "Equilibrium - Medium"
-      url: "https://medium.com/feed/equilibrium-eosdt"
-
     - id: "ErisX"
       name: "ErisX"
       url: "https://www.erisx.com/feed/"
 
-    - id: "ErisX Insights on Medium"
-      name: "ErisX Insights on Medium"
-      url: "https://medium.com/feed/@erisxinsights"
-
-    - id: "Esprezzo Blog"
+    - id: "Esprezzo"
       name: "Esprezzo Blog"
       url: "https://blog.esprezzo.io/rss.xml"
 
-    - id: "Ethereum Blog"
+    - id: "Ethereum"
       name: "Ethereum Blog"
       url: "https://blog.ethereum.org/feed.xml"
 
-    - id: "Ethereum Cat Herders - Medium"
-      name: "Ethereum Cat Herders - Medium"
-      url: "https://medium.com/feed/ethereum-cat-herders"
-
-    - id: "Ethereum Swarm - Medium"
-      name: "Ethereum Swarm - Medium"
-      url: "https://medium.com/feed/ethereum-swarm"
-
-    - id: "Ethereum World Blog"
+    - id: "Ethereum"
       name: "Ethereum World Blog"
       url: "https://blog.ethereum.world/rss/"
-
-    - id: "Ethernity Chain on Medium"
-      name: "Ethernity Chain on Medium"
-      url: "https://medium.com/feed/@ethernitychain"
-
-    - id: "Etherscan Blog - Medium"
-      name: "Etherscan Blog - Medium"
-      url: "https://medium.com/feed/etherscan-blog"
 
     - id: "eToro"
       name: "eToro"
       url: "https://www.etoro.com/en-us/news-and-analysis/crypto/feed/"
 
-    - id: "Euler Newsletter"
+    - id: "Euler"
       name: "Euler Newsletter"
       url: "https://newsletter.euler.finance/feed"
-
-    - id: "Fei Protocol - Medium"
-      name: "Fei Protocol - Medium"
-      url: "https://medium.com/feed/fei-protocol"
 
     - id: "Filecoin"
       name: "Filecoin"
       url: "https://filecoin.io/blog/feed/index.xml"
 
-    - id: "Findora - Medium"
-      name: "Findora - Medium"
-      url: "https://medium.com/feed/findora"
-
-    - id: "FIO Blog - Medium"
-      name: "FIO Blog - Medium"
-      url: "https://medium.com/feed/fio-blog"
-
-    - id: "Firefly - Medium"
-      name: "Firefly - Medium"
-      url: "https://medium.com/feed/dtrade"
-
-    - id: "Flashbots - Medium"
-      name: "Flashbots - Medium"
-      url: "https://medium.com/feed/flashbots"
-
-    - id: "Fleek Blog"
+    - id: "Fleek"
       name: "Fleek Blog"
       url: "https://blog.fleek.co/rss.xml"
 
-    - id: "Flexa - Medium"
-      name: "Flexa - Medium"
-      url: "https://medium.com/feed/flexa"
-
-    - id: "Float Protocol on Medium"
-      name: "Float Protocol on Medium"
-      url: "https://medium.com/feed/@floatprotocol"
-
-    - id: "Fluidity - Medium"
-      name: "Fluidity - Medium"
-      url: "https://medium.com/feed/fluidity"
-
-    - id: "Force on Medium"
-      name: "Force on Medium"
-      url: "https://medium.com/feed/@forcedao"
-
-    - id: "Forta Network"
+    - id: "Forta"
       name: "Forta Network"
       url: "https://forta.org/blog/feed"
 
-    - id: "Frame Labs"
+    - id: "Frame"
       name: "Frame Labs"
       url: "https://blog.frame.sh/rss/"
 
-    - id: "Fuel Labs"
+    - id: "Fuel"
       name: "Fuel Labs"
       url: "https://fuel-labs.ghost.io/rss/"
-
-    - id: "Futureswap - Medium"
-      name: "Futureswap - Medium"
-      url: "https://medium.com/feed/futureswap"
-
-    - id: "Gelato Network on Medium"
-      name: "Gelato Network on Medium"
-      url: "https://medium.com/feed/@gelatonetwork"
 
     - id: "Ghost"
       name: "Ghost"
       url: "https://ghost.org/changelog/rss/"
 
-    - id: "Gitcoin's Blog"
+    - id: "Gitcoin's"
       name: "Gitcoin's Blog"
       url: "https://gitcoin.co/blog/feed/"
 
-    - id: "GiveCrypto.org - Medium"
-      name: "GiveCrypto.org - Medium"
-      url: "https://medium.com/feed/givecrypto"
-
-    - id: "Gnosis - Medium"
+    - id: "Gnosis"
       name: "Gnosis - Medium"
       url: "https://blog.gnosis.pm/feed"
 
-    - id: "Gnosis on Medium"
-      name: "Gnosis on Medium"
-      url: "https://medium.com/feed/@gnosisPM"
-
-    - id: "Gnosis Safe"
+    - id: "Gnosis"
       name: "Gnosis Safe"
       url: "https://safe.mirror.xyz/feed/atom"
 
@@ -781,39 +405,19 @@ rss:
       name: "Golem"
       url: "https://blog.golemproject.net/feed"
 
-    - id: "GoodGhosting on Medium"
-      name: "GoodGhosting on Medium"
-      url: "https://medium.com/feed/@goodghosting"
-
-    - id: "GPU Report on Medium"
-      name: "GPU Report on Medium"
-      url: "https://medium.com/feed/@raiden_network"
-
-    - id: "Grayscale Investments"
+    - id: "Grayscale"
       name: "Grayscale Investments"
       url: "https://www.globenewswire.com/SubscribeToRss/uYBer3uzJgsFPGKc1jORaA%3d%3d"
 
-    - id: "GridPlus - Medium"
+    - id: "GridPlus"
       name: "GridPlus - Medium"
       url: "https://blog.gridplus.io/feed"
-
-    - id: "Gro on Medium"
-      name: "Gro on Medium"
-      url: "https://medium.com/feed/@groprotocol"
-
-    - id: "gyroscope-protocol - Medium"
-      name: "gyroscope-protocol - Medium"
-      url: "https://medium.com/feed/gyroscope-protocol"
 
     - id: "Hang"
       name: "Hang"
       url: "https://mirror.xyz/0x86D4b75B33989e04cfaA630d243642a7784e06ED/feed/atom"
 
-    - id: "Helium Foundation on Medium"
-      name: "Helium Foundation on Medium"
-      url: "https://medium.com/feed/@dewialliance"
-
-    - id: "Hermez | Blog"
+    - id: "Hermez"
       name: "Hermez | Blog"
       url: "https://blog.hermez.io/feed"
 
@@ -821,373 +425,129 @@ rss:
       name: "Hop"
       url: "https://hop.mirror.xyz/feed/atom"
 
-    - id: "HOPR - Medium"
-      name: "HOPR - Medium"
-      url: "https://medium.com/feed/hoprnet"
-
-    - id: "Horizon Games - Medium"
-      name: "Horizon Games - Medium"
-      url: "https://medium.com/feed/horizongames"
-
     - id: "Hyperledger"
       name: "Hyperledger"
       url: "https://www.hyperledger.org/feed"
 
-    - id: "IDEX Blog"
+    - id: "IDEX"
       name: "IDEX Blog"
       url: "https://blog.idex.io/all-posts?format=rss"
 
-    - id: "Idle on Medium"
-      name: "Idle on Medium"
-      url: "https://medium.com/feed/@idlefinance"
-
-    - id: "Illuvium on Medium"
-      name: "Illuvium on Medium"
-      url: "https://medium.com/feed/@illuvium"
-
-    - id: "InstaDApp - Medium"
-      name: "InstaDApp - Medium"
-      url: "https://medium.com/feed/instadapp"
-
-    - id: "Interlay - Medium"
-      name: "Interlay - Medium"
-      url: "https://medium.com/feed/interlay"
-
-    - id: "IPFS Blog & News"
+    - id: "IPFS"
       name: "IPFS Blog & News"
       url: "https://blog.ipfs.io/index.xml"
 
-    - id: "Jack Mallers on Medium"
-      name: "Jack Mallers on Medium"
-      url: "https://medium.com/feed/@JimmyMow"
-
-    - id: "Jarvis Network - Medium"
-      name: "Jarvis Network - Medium"
-      url: "https://medium.com/feed/jarvis-network"
-
-    - id: "Keep Network - Medium"
+    - id: "Keep"
       name: "Keep Network - Medium"
       url: "https://blog.keep.network/feed"
 
-    - id: "Keystone Wallet"
+    - id: "Keystone"
       name: "Keystone Wallet"
       url: "https://blog.keyst.one/feed"
 
-    - id: "Keystone Wallet (Chinese)"
+    - id: "Keystone"
       name: "Keystone Wallet (Chinese)"
       url: "https://mirror.xyz/keystonecn.eth/feed/atom"
 
-    - id: "Klaytn - Medium"
-      name: "Klaytn - Medium"
-      url: "https://medium.com/feed/klaytn"
-
-    - id: "Kraken Blog"
+    - id: "Kraken"
       name: "Kraken Blog"
       url: "https://blog.kraken.com/feed/"
 
-    - id: "Krystal DeFi - Medium"
-      name: "Krystal DeFi - Medium"
-      url: "https://medium.com/feed/krystaldefi"
-
-    - id: "KYVE - Medium"
+    - id: "KYVE"
       name: "KYVE - Medium"
       url: "https://blog.kyve.network/feed"
-
-    - id: "LayerZero Official - Medium"
-      name: "LayerZero Official - Medium"
-      url: "https://medium.com/feed/layerzero-official"
 
     - id: "Ledger"
       name: "Ledger"
       url: "https://www.ledger.com/category/blog-posts/feed/"
 
-    - id: "LEVERJ - Medium"
+    - id: "LEVERJ"
       name: "LEVERJ - Medium"
       url: "https://blog.leverj.io/feed"
 
-    - id: "LexDAOism - Medium"
-      name: "LexDAOism - Medium"
-      url: "https://medium.com/feed/lexdaoism"
-
-    - id: "Lien - Medium"
-      name: "Lien - Medium"
-      url: "https://medium.com/feed/lien-finance"
-
-    - id: "Liquity - Medium"
-      name: "Liquity - Medium"
-      url: "https://medium.com/feed/liquity"
-
-    - id: "Magic - Medium"
-      name: "Magic - Medium"
-      url: "https://medium.com/feed/magiclabs"
-
-    - id: "Maker Blog"
+    - id: "Maker"
       name: "Maker Blog"
       url: "https://blog.makerdao.com/feed"
 
-    - id: "Mask Network (Chinese)"
+    - id: "Mask"
       name: "Mask Network (Chinese)"
       url: "https://news.mask.io/zh-Hans/rss-feed.xml"
 
-    - id: "Matter Labs - Medium"
-      name: "Matter Labs - Medium"
-      url: "https://medium.com/feed/matter-labs"
-
-    - id: "Matter Labs on Medium"
-      name: "Matter Labs on Medium"
-      url: "https://medium.com/feed/@matterlabs"
-
-    - id: "Mechanism Capital"
+    - id: "Mechanism"
       name: "Mechanism Capital"
       url: "https://www.mechanism.capital/feed/"
 
-    - id: "Mercuryo - Medium"
-      name: "Mercuryo - Medium"
-      url: "https://medium.com/feed/mercuryo"
-
-    - id: "MetaCartel DAO - Medium"
-      name: "MetaCartel DAO - Medium"
-      url: "https://medium.com/feed/metacartel"
-
-    - id: "MetaMask - Medium"
-      name: "MetaMask - Medium"
-      url: "https://medium.com/feed/metamask"
-
-    - id: "MetisDAO"
-      name: "MetisDAO"
-      url: "https://medium.com/feed/@metisdao"
-
-    - id: "Mina Protocol"
+    - id: "Mina"
       name: "Mina Protocol"
       url: "https://minaprotocol.com/feed"
 
-    - id: "MinaProtocol - Medium"
-      name: "MinaProtocol - Medium"
-      url: "https://medium.com/feed/minaprotocol/"
-
-    - id: "Mining DAO - Medium"
-      name: "Mining DAO - Medium"
-      url: "https://medium.com/feed/mining-dao"
-
-    - id: "Mintbase - Medium"
-      name: "Mintbase - Medium"
-      url: "https://medium.com/feed/mintbase"
-
-    - id: "Mirror Development"
+    - id: "Mirror"
       name: "Mirror Development"
       url: "https://dev.mirror.xyz/feed/atom"
-
-    - id: "MIXMARVEL on Medium"
-      name: "MIXMARVEL on Medium"
-      url: "https://medium.com/feed/@MIXMARVELGAME"
-
-    - id: "Monolith - Medium"
-      name: "Monolith - Medium"
-      url: "https://medium.com/feed/monolith"
 
     - id: "Moralis"
       name: "Moralis"
       url: "https://moralis.io/blog/feed/"
 
-    - id: "mStable - Medium"
-      name: "mStable - Medium"
-      url: "https://medium.com/feed/mstable"
-
-    - id: "Muun - Medium"
-      name: "Muun - Medium"
-      url: "https://medium.com/feed/muunwallet"
-
-    - id: "MyCrypto - Medium"
-      name: "MyCrypto - Medium"
-      url: "https://medium.com/feed/mycrypto"
-
-    - id: "MyEtherWallet on Medium"
-      name: "MyEtherWallet on Medium"
-      url: "https://medium.com/feed/@myetherwallet"
-
-    - id: "Mysterium Network - Medium"
-      name: "Mysterium Network - Medium"
-      url: "https://medium.com/feed/mysterium-network"
-
-    - id: "NEAR Protocol"
+    - id: "NEAR"
       name: "NEAR Protocol"
       url: "https://nearprotocol.com/feed/"
 
-    - id: "NEAR Protocol - Medium"
-      name: "NEAR Protocol - Medium"
-      url: "https://medium.com/feed/nearprotocol"
-
-    - id: "Neo blog posts list"
+    - id: "Neo"
       name: "Neo blog posts list"
       url: "https://neo.org/blog/rss?language=zh"
-
-    - id: "Nethermind.eth - Medium"
-      name: "Nethermind.eth - Medium"
-      url: "https://medium.com/feed/nethermind-eth"
-
-    - id: "Nexo - Medium"
-      name: "Nexo - Medium"
-      url: "https://medium.com/feed/nexo"
-
-    - id: "Nexus Mutual - Medium"
-      name: "Nexus Mutual - Medium"
-      url: "https://medium.com/feed/nexus-mutual"
 
     - id: "nickler's"
       name: "nickler's"
       url: "https://nickler.ninja/atom.xml"
 
-    - id: "NKN - Medium"
-      name: "NKN - Medium"
-      url: "https://medium.com/feed/nknetwork"
-
-    - id: "NODE from Voyager"
+    - id: "NODE"
       name: "NODE from Voyager"
       url: "https://www.investvoyager.com/blog/rss"
 
-    - id: "Nodle - Medium"
-      name: "Nodle - Medium"
-      url: "https://medium.com/feed/nodle-io"
-
-    - id: "Nomic Foundation - Medium"
-      name: "Nomic Foundation - Medium"
-      url: "https://medium.com/feed/nomic-foundation-blog"
-
-    - id: "Nomics Blog"
+    - id: "Nomics"
       name: "Nomics Blog"
       url: "https://blog.nomics.com/feed/"
-
-    - id: "Notes.Finance - Medium"
-      name: "Notes.Finance - Medium"
-      url: "https://medium.com/feed/notes-finance"
 
     - id: "NuCypher"
       name: "NuCypher"
       url: "https://blog.nucypher.com/rss/"
 
-    - id: "Nym on Medium"
-      name: "Nym on Medium"
-      url: "https://medium.com/feed/@nymtech"
-
-    - id: "Offchain Labs"
-      name: "Offchain Labs"
-      url: "https://offchain.medium.com/feed"
-
-    - id: "Offchain Labs (Arbitrum)"
-      name: "Offchain Labs (Arbitrum)"
-      url: "https://medium.com/feed/offchainlabs"
-
-    - id: "OmniBOLT - Medium"
-      name: "OmniBOLT - Medium"
-      url: "https://medium.com/feed/omnibolt"
-
-    - id: "OpenDAO - Medium"
-      name: "OpenDAO - Medium"
-      url: "https://medium.com/feed/opendao"
-
-    - id: "OpenGSN on Medium"
-      name: "OpenGSN on Medium"
-      url: "https://medium.com/feed/@opengsn"
-
-    - id: "OpenNode Blog"
+    - id: "OpenNode"
       name: "OpenNode Blog"
       url: "https://www.opennode.co/blog/feed/"
 
-    - id: "OpenZeppelin blog"
+    - id: "OpenZeppelin"
       name: "OpenZeppelin blog"
       url: "https://blog.openzeppelin.com/feed/"
 
-    - id: "Opium Team - Medium"
-      name: "Opium Team - Medium"
-      url: "https://medium.com/feed/opium-network"
-
-    - id: "Opyn - Medium"
-      name: "Opyn - Medium"
-      url: "https://medium.com/feed/opyn"
-
-    - id: "Orchid RSS feed"
+    - id: "Orchid"
       name: "Orchid RSS feed"
       url: "https://blog.orchid.com/rss.xml"
 
-    - id: "Our Status"
+    - id: "Our"
       name: "Our Status"
       url: "https://our.status.im/rss/"
 
-    - id: "PayPal Newsroom"
+    - id: "PayPal"
       name: "PayPal Newsroom"
       url: "https://newsroom.paypal-corp.com/news?pagetemplate=rss"
-
-    - id: "Pendle - Medium"
-      name: "Pendle - Medium"
-      url: "https://medium.com/feed/pendle"
 
     - id: "Percent"
       name: "Percent"
       url: "https://withcadence.io/feed/"
 
-    - id: "Phoenix Finance - Medium"
-      name: "Phoenix Finance - Medium"
-      url: "https://medium.com/feed/finnexus"
-
-    - id: "PieDAO - Medium"
-      name: "PieDAO - Medium"
-      url: "https://medium.com/feed/piedao"
-
-    - id: "Pinata - Medium"
-      name: "Pinata - Medium"
-      url: "https://medium.com/feed/pinata"
-
-    - id: "pNetwork Team on Medium"
-      name: "pNetwork Team on Medium"
-      url: "https://medium.com/feed/@provablethings"
-
-    - id: "POAP - Medium"
-      name: "POAP - Medium"
-      url: "https://medium.com/feed/poap"
-
-    - id: "Pods - Medium"
+    - id: "Pods"
       name: "Pods - Medium"
       url: "https://blog.pods.finance/feed"
 
-    - id: "Polkadot Network"
+    - id: "Polkadot"
       name: "Polkadot Network"
       url: "https://polkadot.network/blog/feed"
-
-    - id: "Polkadot Network - Medium"
-      name: "Polkadot Network - Medium"
-      url: "https://medium.com/feed/polkadot-network"
-
-    - id: "PoolTogether - Medium"
-      name: "PoolTogether - Medium"
-      url: "https://medium.com/feed/pooltogether"
-
-    - id: "Portis on Medium"
-      name: "Portis on Medium"
-      url: "https://medium.com/feed/@portis"
-
-    - id: "PowerPool - Medium"
-      name: "PowerPool - Medium"
-      url: "https://medium.com/feed/powerpool/"
-
-    - id: "PrimeDAO on Medium"
-      name: "PrimeDAO on Medium"
-      url: "https://medium.com/feed/@primefoundation"
-
-    - id: "Primitive on Medium"
-      name: "Primitive on Medium"
-      url: "https://medium.com/feed/@primitivefinance"
 
     - id: "Propine"
       name: "Propine"
       url: "https://www.propine.com/feed/"
-
-    - id: "Prysmatic Labs - Medium"
-      name: "Prysmatic Labs - Medium"
-      url: "https://medium.com/feed/prysmatic-labs"
-
-    - id: "Quoletta on Medium"
-      name: "Quoletta on Medium"
-      url: "https://medium.com/feed/@mustcometh"
 
     - id: "RabbitHole"
       name: "RabbitHole"
@@ -1197,55 +557,23 @@ rss:
       name: "Radicle"
       url: "https://radicle.mirror.xyz/feed/atom"
 
-    - id: "Reach Platform - Medium"
-      name: "Reach Platform - Medium"
-      url: "https://medium.com/feed/reach-sh"
-
-    - id: "Reflexer Labs - Medium"
-      name: "Reflexer Labs - Medium"
-      url: "https://medium.com/feed/reflexer-labs"
-
-    - id: "Ren Project - Medium"
-      name: "Ren Project - Medium"
-      url: "https://medium.com/feed/renproject"
-
-    - id: "Reserve - Medium"
-      name: "Reserve - Medium"
-      url: "https://medium.com/feed/reserve-currency"
-
-    - id: "Revolut Blog"
+    - id: "Revolut"
       name: "Revolut Blog"
       url: "https://blog.revolut.com/rss"
 
-    - id: "Ribbon Finance on Medium"
-      name: "Ribbon Finance on Medium"
-      url: "https://medium.com/feed/@ribbonfinance"
-
-    - id: "RISC Zero Blog"
+    - id: "RISC"
       name: "RISC Zero Blog"
       url: "https://www.risczero.com/blog/rss.xml"
 
-    - id: "Rocket Pool - Medium"
-      name: "Rocket Pool - Medium"
-      url: "https://medium.com/feed/rocket-pool"
-
-    - id: "Roll – the new standard in social money"
+    - id: "Roll"
       name: "Roll – the new standard in social money"
       url: "https://tryroll.com/feed/"
 
-    - id: "safenetwork - Medium"
-      name: "safenetwork - Medium"
-      url: "https://medium.com/feed/safenetwork"
-
-    - id: "Samourai Wallet"
+    - id: "Samourai"
       name: "Samourai Wallet"
       url: "https://blog.samouraiwallet.com/rss"
 
-    - id: "Samourai Wallet on Medium"
-      name: "Samourai Wallet on Medium"
-      url: "https://medium.com/feed/@SamouraiWallet"
-
-    - id: "ScopeLift - High Caliber Crypto"
+    - id: "ScopeLift"
       name: "ScopeLift - High Caliber Crypto"
       url: "https://www.scopelift.co/blog?format=rss"
 
@@ -1253,291 +581,119 @@ rss:
       name: "Scroll"
       url: "https://mirror.xyz/scroll.eth/feed/atom"
 
-    - id: "Set Labs - Medium"
-      name: "Set Labs - Medium"
-      url: "https://medium.com/feed/set-protocol"
-
-    - id: "Sia and Skynet Blog - Medium"
+    - id: "Sia"
       name: "Sia and Skynet Blog - Medium"
       url: "https://blog.sia.tech/feed"
 
-    - id: "Sigma Prime"
+    - id: "Sigma"
       name: "Sigma Prime"
       url: "https://blog.sigmaprime.io/feeds/all.atom.xml"
 
-    - id: "SIMBA Chain Blog"
+    - id: "SIMBA"
       name: "SIMBA Chain Blog"
       url: "https://blog.simbachain.com/blog/rss.xml"
 
-    - id: "Sismo on Medium"
+    - id: "Sismo"
       name: "Sismo on Medium"
       url: "https://blog.sismo.io/feed"
 
-    - id: "SKALE Blog"
+    - id: "SKALE"
       name: "SKALE Blog"
       url: "https://skale.network/blog/rss"
 
-    - id: "slock.it Blog - Medium"
+    - id: "slock.it"
       name: "slock.it Blog - Medium"
       url: "https://blog.slock.it/feed"
 
-    - id: "SlowMist on Medium"
-      name: "SlowMist on Medium"
-      url: "https://slowmist.medium.com/feed"
-
-    - id: "Smart Token Labs - Medium"
-      name: "Smart Token Labs - Medium"
-      url: "https://medium.com/feed/alphawallet"
-
-    - id: "Snake Charmers"
+    - id: "Snake"
       name: "Snake Charmers"
       url: "https://snakecharmers.ethereum.org/rss/"
 
-    - id: "Snapshot Labs"
+    - id: "Snapshot"
       name: "Snapshot Labs"
       url: "https://snapshot.mirror.xyz/feed/atom"
 
-    - id: "Solidity Blog"
+    - id: "Solidity"
       name: "Solidity Blog"
       url: "https://solidity.ethereum.org/feed.xml"
-
-    - id: "Solv Protocol"
-      name: "Solv Protocol"
-      url: "https://solvprotocol.medium.com/feed"
-
-    - id: "Spatium Blog - Medium"
-      name: "Spatium Blog - Medium"
-      url: "https://medium.com/feed/spatium-blog"
 
     - id: "Spruce"
       name: "Spruce"
       url: "https://blog.spruceid.com/rss"
 
-    - id: "Stacks Blog – Apps and smart contracts for Bitcoin"
+    - id: "Stacks"
       name: "Stacks Blog – Apps and smart contracts for Bitcoin"
       url: "https://blog.blockstack.org/feed/"
 
-    - id: "Stakenet - Medium"
-      name: "Stakenet - Medium"
-      url: "https://medium.com/feed/stakenet"
-
-    - id: "StarkWare on Medium"
-      name: "StarkWare on Medium"
-      url: "https://medium.com/feed/@StarkWare"
-
-    - id: "STASIS Blog - Medium"
-      name: "STASIS Blog - Medium"
-      url: "https://medium.com/feed/stasis-blog"
-
-    - id: "SubQuery Network on Medium"
-      name: "SubQuery Network on Medium"
-      url: "https://medium.com/feed/@subquery"
-
-    - id: "Sui by Mysten Labs"
-      name: "Sui by Mysten Labs"
-      url: "https://medium.com/feed/mysten-labs"
-
-    - id: "Superfluid on Medium"
-      name: "Superfluid on Medium"
-      url: "https://medium.com/feed/@superfluid_HQ"
-
-    - id: "Sushi - Medium"
-      name: "Sushi - Medium"
-      url: "https://medium.com/feed/sushiswap-org"
-
-    - id: "Swipe - Medium"
-      name: "Swipe - Medium"
-      url: "https://medium.com/feed/swipe"
-
-    - id: "Sylo - Medium"
-      name: "Sylo - Medium"
-      url: "https://medium.com/feed/sylo-io"
-
-    - id: "Synthetix Blog"
+    - id: "Synthetix"
       name: "Synthetix Blog"
       url: "https://blog.synthetix.io/rss/"
 
-    - id: "Tally Ho!"
+    - id: "Tally"
       name: "Tally Ho!"
       url: "https://blog.tally.cash/rss"
 
-    - id: "Taxa Network - Medium"
-      name: "Taxa Network - Medium"
-      url: "https://medium.com/feed/taxanetwork"
-
-    - id: "tbDEX - @TBD54566975"
+    - id: "tbDEX"
       name: "tbDEX - @TBD54566975"
       url: "https://tbd54566975.ghost.io/rss/"
 
-    - id: "Tellor Core on Medium"
-      name: "Tellor Core on Medium"
-      url: "https://medium.com/feed/@tellor"
-
-    - id: "tempus - Medium"
-      name: "tempus - Medium"
-      url: "https://medium.com/feed/tempusfinance"
-
-    - id: "Thales on Medium"
-      name: "Thales on Medium"
-      url: "https://medium.com/feed/@thalesmarket"
-
-    - id: "The BitPay Blog"
+    - id: "The"
       name: "The BitPay Blog"
       url: "https://bitpay.com/blog/feed"
 
-    - id: "The Celo Blog - Medium"
-      name: "The Celo Blog - Medium"
-      url: "https://medium.com/feed/celoorg"
-
-    - id: "The Ceramic Blog"
+    - id: "The"
       name: "The Ceramic Blog"
       url: "https://blog.ceramic.network/rss/"
 
-    - id: "The Coinbase Blog - Medium"
+    - id: "The"
       name: "The Coinbase Blog - Medium"
       url: "https://blog.coinbase.com/feed"
 
-    - id: "The DeversiFi Blog"
+    - id: "The"
       name: "The DeversiFi Blog"
       url: "https://blog.ethfinex.com/rss/"
 
-    - id: "The Ethereum Name Service - Medium"
-      name: "The Ethereum Name Service - Medium"
-      url: "https://medium.com/feed/the-ethereum-name-service"
-
-    - id: "The Index Coop - Medium"
-      name: "The Index Coop - Medium"
-      url: "https://medium.com/feed/indexcoop"
-
-    - id: "The LAO on Medium"
-      name: "The LAO on Medium"
-      url: "https://medium.com/feed/@thelaoofficial"
-
-    - id: "The Optimism Collective"
+    - id: "The"
       name: "The Optimism Collective"
       url: "https://optimism.mirror.xyz/feed/atom"
 
-    - id: "The Optimistic Dev Blog"
+    - id: "The"
       name: "The Optimistic Dev Blog"
       url: "https://dev.optimism.io/rss/"
 
-    - id: "The Rook Blog"
+    - id: "The"
       name: "The Rook Blog"
       url: "https://blog.rook.fi/rss/"
 
-    - id: "The Sandbox - Medium"
-      name: "The Sandbox - Medium"
-      url: "https://medium.com/feed/sandbox-game"
-
-    - id: "Theta Network - Medium"
-      name: "Theta Network - Medium"
-      url: "https://medium.com/feed/theta-network"
-
-    - id: "THORChain - Medium"
-      name: "THORChain - Medium"
-      url: "https://medium.com/feed/thorchain"
-
-    - id: "Tornado Cash on Medium"
-      name: "Tornado Cash on Medium"
-      url: "https://medium.com/feed/@tornado-cash"
-
-    - id: "Truebit Network Sync"
+    - id: "Truebit"
       name: "Truebit Network Sync"
       url: "https://truebit.substack.com/feed"
 
-    - id: "Trustless Fund - Medium"
-      name: "Trustless Fund - Medium"
-      url: "https://medium.com/feed/trustless-fund"
-
-    - id: "UMA Project - Medium"
-      name: "UMA Project - Medium"
-      url: "https://medium.com/feed/uma-project"
-
-    - id: "Umbrel Blog - Medium"
+    - id: "Umbrel"
       name: "Umbrel Blog - Medium"
       url: "https://blog.getumbrel.com/feed"
 
-    - id: "UniLogin - Medium"
-      name: "UniLogin - Medium"
-      url: "https://medium.com/feed/universal-ethereum"
-
-    - id: "Unitradeappnews on Medium"
-      name: "Unitradeappnews on Medium"
-      url: "https://medium.com/feed/@unitradeapp"
-
-    - id: "Universal Protocol - Medium"
-      name: "Universal Protocol - Medium"
-      url: "https://medium.com/feed/universalprotocol"
-
-    - id: "Uphold Blog"
+    - id: "Uphold"
       name: "Uphold Blog"
       url: "https://uphold.com/en/blog/feed"
 
-    - id: "UpshotHQ - Medium"
-      name: "UpshotHQ - Medium"
-      url: "https://medium.com/feed/upshothq"
-
-    - id: "Utopia Labs"
+    - id: "Utopia"
       name: "Utopia Labs"
       url: "https://mirror.xyz/utopialabs.eth/feed/atom"
 
-    - id: "Vega Protocol - Medium"
-      name: "Vega Protocol - Medium"
-      url: "https://medium.com/feed/vegaprotocol"
-
-    - id: "Vertalo on Medium"
-      name: "Vertalo on Medium"
-      url: "https://medium.com/feed/@Vertalo"
-
-    - id: "Vesper Finance - Medium"
-      name: "Vesper Finance - Medium"
-      url: "https://medium.com/feed/vesperfinance"
-
-    - id: "Visor Finance - Medium"
-      name: "Visor Finance - Medium"
-      url: "https://medium.com/feed/visorfinance"
-
-    - id: "Visor Finance on Medium"
-      name: "Visor Finance on Medium"
-      url: "https://medium.com/feed/@visorfinance"
-
-    - id: "WalletConnect - Medium"
-      name: "WalletConnect - Medium"
-      url: "https://medium.com/feed/walletconnect"
-
-    - id: "WalletConnect — Mirror"
+    - id: "WalletConnect"
       name: "WalletConnect — Mirror"
       url: "http://walletconnect.submirror.xyz/"
 
-    - id: "Wasabi Wallet Blog"
+    - id: "Wasabi"
       name: "Wasabi Wallet Blog"
       url: "https://blog.wasabiwallet.io/rss/"
 
-    - id: "Web3Auth - Medium"
-      name: "Web3Auth - Medium"
-      url: "https://medium.com/feed/toruslabs"
-
-    - id: "Whale Shark on Medium"
-      name: "Whale Shark on Medium"
-      url: "https://medium.com/feed/@whalesharkdotpro"
-
-    - id: "Wyre on Medium"
-      name: "Wyre on Medium"
-      url: "https://medium.com/feed/@wyre"
-
-    - id: "Xage Security"
+    - id: "Xage"
       name: "Xage Security"
       url: "https://xage.com/feed/"
 
-    - id: "XDEFI Wallet on Medium"
-      name: "XDEFI Wallet on Medium"
-      url: "https://medium.com/feed/@xdefi-io"
-
-    - id: "Yearn - Medium"
-      name: "Yearn - Medium"
-      url: "https://medium.com/feed/iearn"
-
-    - id: "Zcash foundation"
+    - id: "Zcash"
       name: "Zcash foundation"
       url: "https://zfnd.org/feed/"
 
@@ -1545,25 +701,989 @@ rss:
       name: "Zeitgeist"
       url: "https://blog.zeitgeist.pm/rss/"
 
-    - id: "ZenGo – Bitcoin & Cryptocurrency Wallet"
+    - id: "ZenGo"
       name: "ZenGo – Bitcoin & Cryptocurrency Wallet"
       url: "https://zengo.com/feed/"
 
-    - id: "Zilliqa — Official Blog - Medium"
+    - id: "Zilliqa — Official"
       name: "Zilliqa — Official Blog - Medium"
       url: "https://blog.zilliqa.com/feed"
 
-    - id: "zkLinkDeFi - Medium"
-      name: "zkLinkDeFi - Medium"
-      url: "https://medium.com/feed/zklinkdefi"
-
-    - id: "ZKOPRU (EF)"
-      name: "ZKOPRU (EF)"
-      url: "https://medium.com/feed/privacy-scaling-explorations"
-
-    - id: "BlockTempo (Chinese)"
+    - id: "BlockTempo"
       name: "BlockTempo (Chinese)"
       url: "https://www.blocktempo.com/feed/"
+
+    - id: "Blockworks"
+      name: "Blockworks"
+      url: "https://blockworks.co/feed/"
+
+    - id: "ChainFeeds"
+      name: "ChainFeeds Selected (Chinese)"
+      url: "https://www.chainfeeds.xyz/rss"
+
+    - id: "CoinDesk"
+      name: "CoinDesk"
+      url: "http://feeds.feedburner.com/Coindesk"
+
+    - id: "Cointelegraph.com"
+      name: "Cointelegraph.com News"
+      url: "https://cointelegraph.com/rss"
+
+    - id: "Crunchbase"
+      name: "Crunchbase Crypto"
+      url: "https://news.crunchbase.com/sections/crypto/feed/"
+
+    - id: "Crypto"
+      name: "Crypto Briefing"
+      url: "https://cryptobriefing.com/feed/"
+
+    - id: "Crypto"
+      name: "Crypto News on Seeking Alpha"
+      url: "https://seekingalpha.com/news/crypto/feed"
+
+    - id: "Decrypt"
+      name: "Decrypt"
+      url: "https://decryptmedia.com/feed/"
+
+    - id: "ECN"
+      name: "ECN (Chinese)"
+      url: "https://news.ethereum.cn/rss.xml"
+
+    - id: "Hacker"
+      name: "Hacker Noon"
+      url: "https://hackernoon.com/feed"
+
+    - id: "Messari"
+      name: "Messari Crypto News Feed"
+      url: "https://messari.io/rss"
+
+    - id: "TechCrunch"
+      name: "TechCrunch - Bitcoin"
+      url: "https://techcrunch.com/tag/bitcoin/feed"
+
+    - id: "TechFlow"
+      name: "TechFlow (Chinese)"
+      url: "https://techflowpost.mirror.xyz/feed/atom"
+
+    - id: "Trustnodes"
+      name: "Trustnodes"
+      url: "https://www.trustnodes.com/feed"
+
+    - id: "🔐Kurt"
+      name: "🔐Kurt Pan’s Crypto Weekly"
+      url: "https://www.getrevue.co/profile/kurtpan?format=rss"
+
+    - id: "0xSoros"
+      name: "0xSoros (Chinese)"
+      url: "https://0xsoros.substack.com/feed"
+
+    - id: "a16z"
+      name: "a16z web3 weekly"
+      url: "https://a16zcrypto.substack.com/feed"
+
+    - id: "AllCoreDevs"
+      name: "AllCoreDevs Updates  — Mirror"
+      url: "https://tim.submirror.xyz/"
+
+    - id: "Bitcoin"
+      name: "Bitcoin Magazine PRO®"
+      url: "https://bmpro.substack.com/feed"
+
+    - id: "Bitcoin"
+      name: "Bitcoin Optech"
+      url: "https://bitcoinops.org/feed.xml"
+
+    - id: "Boardroom"
+      name: "Boardroom"
+      url: "https://governance.substack.com/feed"
+
+    - id: "ChainBreaker"
+      name: "ChainBreaker (Chinese)"
+      url: "https://submirror.xyz/0xchainbreaker.eth"
+
+    - id: "ChainFeeds"
+      name: "ChainFeeds Selection"
+      url: "https://chainfeeds.substack.com/feed"
+
+    - id: "ChainFeeds"
+      name: "ChainFeeds Selection — Mirror"
+      url: "https://submirror.xyz/feedselection.eth"
+
+    - id: "Coin"
+      name: "Coin Metrics' State of the Network"
+      url: "https://coinmetrics.substack.com/feed"
+
+    - id: "DeFi"
+      name: "DeFi Weekly"
+      url: "https://defiweekly.substack.com/feed"
+
+    - id: "DotLeap"
+      name: "DotLeap"
+      url: "https://dotleap.substack.com/feed"
+
+    - id: "Dove"
+      name: "Dove Dispatch"
+      url: "https://dovemountain.substack.com/feed"
+
+    - id: "EthHub"
+      name: "EthHub"
+      url: "https://ethhub.substack.com/feed"
+
+    - id: "Grin"
+      name: "Grin Newsletter"
+      url: "https://grinnews.substack.com/feed"
+
+    - id: "MatrixDAO’s"
+      name: "MatrixDAO’s Newsletter"
+      url: "https://matrixdao.substack.com/feed"
+
+    - id: "mcdao"
+      name: "mcdao"
+      url: "https://mcdao.mirror.xyz/feed/atom"
+
+    - id: "MinerUpdate"
+      name: "MinerUpdate"
+      url: "https://minerupdate.substack.com/feed"
+
+    - id: "Mirror"
+      name: "Mirror DAO"
+      url: "https://dao.mirror.xyz/feed/atom"
+
+    - id: "O’Reilly"
+      name: "O’Reilly Radar"
+      url: "http://www.oreilly.com/radar/feed/index.xml"
+
+    - id: "Orange"
+      name: "Orange Paper (Chinese)"
+      url: "https://orangexyz.mirror.xyz/feed/atom"
+
+    - id: "Proof"
+      name: "Proof of Work"
+      url: "https://proofofwork.news/feed"
+
+    - id: "StarkNet"
+      name: "StarkNet CN (Chinese)"
+      url: "https://starknetzh.substack.com/feed"
+
+    - id: "TechFlow"
+      name: "TechFlow (Chinese)"
+      url: "https://techflowpost.substack.com/feed"
+
+    - id: "The"
+      name: "The Daily Gwei"
+      url: "https://thedailygwei.substack.com/feed"
+
+    - id: "The"
+      name: "The Defiant"
+      url: "https://thedefiant.substack.com/feed"
+
+    - id: "un.Block"
+      name: "un.Block 周报"
+      url: "https://unblock256.substack.com/feed"
+
+    - id: "Week"
+      name: "Week in Ethereum News"
+      url: "https://weekinethereumnews.com/feed/"
+
+    - id: "ZK"
+      name: "ZK Whiteboard Sessions"
+      url: "https://whiteboard.zkhack.dev/feed/"
+
+    - id: "zkMesh"
+      name: "zkMesh"
+      url: "https://zkmesh.substack.com/feed"
+
+    - id: "Alpha-wallet-ios"
+      name: "Alpha-wallet-ios"
+      url: "https://github.com/AlphaWallet/alpha-wallet-ios/releases.atom"
+
+    - id: "Anoma"
+      name: "Anoma"
+      url: "https://github.com/anoma/anoma/releases.atom"
+
+    - id: "Arbitrum"
+      name: "Arbitrum"
+      url: "https://github.com/OffchainLabs/arbitrum/releases.atom"
+
+    - id: "Ardrive-web"
+      name: "Ardrive-web"
+      url: "https://github.com/ardriveapp/ardrive-web/releases.atom"
+
+    - id: "Argent-x"
+      name: "Argent-x"
+      url: "https://github.com/argentlabs/argent-x/releases.atom"
+
+    - id: "Arweave"
+      name: "Arweave"
+      url: "https://github.com/ArweaveTeam/arweave/releases.atom"
+
+    - id: "Bitcoin"
+      name: "Bitcoin"
+      url: "https://github.com/bitcoin/bitcoin/releases.atom"
+
+    - id: "BlueWallet"
+      name: "BlueWallet"
+      url: "https://github.com/BlueWallet/BlueWallet/releases.atom"
+
+    - id: "Brave-ios"
+      name: "Brave-ios"
+      url: "https://github.com/brave/brave-ios/releases.atom"
+
+    - id: "Breezmobile"
+      name: "Breezmobile"
+      url: "https://github.com/breez/breezmobile/releases.atom"
+
+    - id: "Cairo-contracts"
+      name: "Cairo-contracts"
+      url: "https://github.com/OpenZeppelin/cairo-contracts/releases.atom"
+
+    - id: "Cairo-lang"
+      name: "Cairo-lang"
+      url: "https://github.com/starkware-libs/cairo-lang/releases.atom"
+
+    - id: "Cape"
+      name: "Cape by Espresso"
+      url: "https://github.com/EspressoSystems/cape/releases.atom"
+
+    - id: "Cardano-node"
+      name: "Cardano-node"
+      url: "https://github.com/input-output-hk/cardano-node/releases.atom"
+
+    - id: "Celo-blockchain"
+      name: "Celo-blockchain"
+      url: "https://github.com/celo-org/celo-blockchain/releases.atom"
+
+    - id: "ceno-browser"
+      name: "ceno-browser"
+      url: "https://github.com/censorship-no/ceno-browser/releases.atom"
+
+    - id: "Chia-blockchain"
+      name: "Chia-blockchain"
+      url: "https://github.com/Chia-Network/chia-blockchain/releases.atom"
+
+    - id: "ckb"
+      name: "ckb"
+      url: "https://github.com/nervosnetwork/ckb/releases.atom"
+
+    - id: "clr.fund"
+      name: "clr.fund"
+      url: "https://github.com/clrfund/monorepo/releases.atom"
+
+    - id: "Cosmos-sdk"
+      name: "Cosmos-sdk"
+      url: "https://github.com/cosmos/cosmos-sdk/releases.atom"
+
+    - id: "council"
+      name: "council by Element"
+      url: "https://github.com/element-fi/council/releases.atom"
+
+    - id: "COWswap"
+      name: "COWswap"
+      url: "https://github.com/gnosis/cowswap/releases.atom"
+
+    - id: "Daedalus"
+      name: "Daedalus"
+      url: "https://github.com/input-output-hk/daedalus/releases.atom"
+
+    - id: "Eclair"
+      name: "Eclair"
+      url: "https://github.com/ACINQ/eclair/releases.atom"
+
+    - id: "EEA"
+      name: "EEA L2"
+      url: "https://github.com/eea-oasis/L2/releases.atom"
+
+    - id: "Erigon"
+      name: "Erigon"
+      url: "https://github.com/ledgerwatch/erigon/releases.atom"
+
+    - id: "Facebook"
+      name: "Facebook Winterfell"
+      url: "https://github.com/novifinancial/winterfell/releases.atom"
+
+    - id: "forta-node"
+      name: "forta-node"
+      url: "https://github.com/forta-network/forta-node/releases.atom"
+
+    - id: "Frame"
+      name: "Frame wallet"
+      url: "https://github.com/floating/frame/releases.atom"
+
+    - id: "Fuel-core"
+      name: "Fuel-core"
+      url: "https://github.com/FuelLabs/fuel-core/releases.atom"
+
+    - id: "Gitcoin"
+      name: "Gitcoin web"
+      url: "https://github.com/gitcoinco/web/releases.atom"
+
+    - id: "go-ethereum"
+      name: "go-ethereum"
+      url: "https://github.com/ethereum/go-ethereum/releases.atom"
+
+    - id: "go-ipfs"
+      name: "go-ipfs"
+      url: "https://github.com/ipfs/go-ipfs/releases.atom"
+
+    - id: "go-spacemesh"
+      name: "go-spacemesh"
+      url: "https://github.com/spacemeshos/go-spacemesh/releases.atom"
+
+    - id: "green_ios"
+      name: "green_ios"
+      url: "https://github.com/Blockstream/green_ios/releases.atom"
+
+    - id: "Grin"
+      name: "Grin"
+      url: "https://github.com/mimblewimble/grin/releases.atom"
+
+    - id: "hubble-contracts"
+      name: "hubble-contracts"
+      url: "https://github.com/thehubbleproject/hubble-contracts/releases.atom"
+
+    - id: "Huff"
+      name: "Huff (Low level language for EVM)"
+      url: "https://github.com/huff-language/huffc/releases.atom"
+
+    - id: "ibc-go"
+      name: "ibc-go"
+      url: "https://github.com/cosmos/ibc-go/releases.atom"
+
+    - id: "js-ceramic"
+      name: "js-ceramic"
+      url: "https://github.com/ceramicnetwork/js-ceramic/releases.atom"
+
+    - id: "juvix"
+      name: "juvix"
+      url: "https://github.com/anoma/juvix/releases.atom"
+
+    - id: "kepler"
+      name: "kepler"
+      url: "https://github.com/spruceid/kepler/releases.atom"
+
+    - id: "Kryptology"
+      name: "Kryptology"
+      url: "https://github.com/coinbase/kryptology/commits/master.atom"
+
+    - id: "KYVE"
+      name: "KYVE"
+      url: "https://github.com/KYVENetwork/chain/releases.atom"
+
+    - id: "Ledger-live-desktop"
+      name: "Ledger-live-desktop"
+      url: "https://github.com/LedgerHQ/ledger-live-desktop/releases.atom"
+
+    - id: "Lighthouse"
+      name: "Lighthouse"
+      url: "https://github.com/sigp/lighthouse/releases.atom"
+
+    - id: "Lightning"
+      name: "Lightning"
+      url: "https://github.com/ElementsProject/lightning/releases.atom"
+
+    - id: "lnd"
+      name: "lnd"
+      url: "https://github.com/lightningnetwork/lnd/releases.atom"
+
+    - id: "Lodestar"
+      name: "Lodestar"
+      url: "https://github.com/ChainSafe/lodestar/releases.atom"
+
+    - id: "Loop"
+      name: "Loop"
+      url: "https://github.com/lightninglabs/loop/releases.atom"
+
+    - id: "Maskbook"
+      name: "Maskbook"
+      url: "https://github.com/DimensionDev/Maskbook/releases.atom"
+
+    - id: "Metamask-mobile"
+      name: "Metamask-mobile"
+      url: "https://github.com/MetaMask/metamask-mobile/releases.atom"
+
+    - id: "MEV-geth"
+      name: "MEV-geth"
+      url: "https://github.com/flashbots/mev-geth/releases.atom"
+
+    - id: "Monero"
+      name: "Monero"
+      url: "https://github.com/monero-project/monero/releases.atom"
+
+    - id: "Mysterium"
+      name: "Mysterium"
+      url: "https://github.com/MysteriumNetwork/node/releases.atom"
+
+    - id: "NEAR"
+      name: "NEAR Core"
+      url: "https://github.com/near/nearcore/releases.atom"
+
+    - id: "Nethermind"
+      name: "Nethermind"
+      url: "https://github.com/NethermindEth/nethermind/releases.atom"
+
+    - id: "Nimbus-eth1"
+      name: "Nimbus-eth1"
+      url: "https://github.com/status-im/nimbus-eth1/releases.atom"
+
+    - id: "Nimbus-eth2"
+      name: "Nimbus-eth2"
+      url: "https://github.com/status-im/nimbus-eth2/releases.atom"
+
+    - id: "NXTP"
+      name: "NXTP"
+      url: "https://github.com/connext/nxtp/releases.atom"
+
+    - id: "NYM"
+      name: "NYM"
+      url: "https://github.com/nymtech/nym/releases.atom"
+
+    - id: "Oasis-core"
+      name: "Oasis-core"
+      url: "https://github.com/oasisprotocol/oasis-core/releases.atom"
+
+    - id: "OpenEthereum"
+      name: "OpenEthereum"
+      url: "https://github.com/openethereum/openethereum/releases.atom"
+
+    - id: "Openzeppelin-contracts"
+      name: "Openzeppelin-contracts"
+      url: "https://github.com/OpenZeppelin/openzeppelin-contracts/releases.atom"
+
+    - id: "Opera"
+      name: "Opera Desktop"
+      url: "https://blogs.opera.com/desktop/feed/"
+
+    - id: "Opera"
+      name: "Opera Mobile"
+      url: "https://blogs.opera.com/mobile/feed/"
+
+    - id: "Otterscan"
+      name: "Otterscan"
+      url: "https://github.com/wmitsuda/otterscan/releases.atom"
+
+    - id: "Phoenix"
+      name: "Phoenix"
+      url: "https://github.com/ACINQ/phoenix/releases.atom"
+
+    - id: "PlatON-Go"
+      name: "PlatON-Go"
+      url: "https://github.com/PlatONnetwork/PlatON-Go/releases.atom"
+
+    - id: "Pocket-core"
+      name: "Pocket-core"
+      url: "https://github.com/pokt-network/pocket-core/releases.atom"
+
+    - id: "Polkadot"
+      name: "Polkadot"
+      url: "https://github.com/paritytech/polkadot/releases.atom"
+
+    - id: "prysm"
+      name: "prysm"
+      url: "https://github.com/prysmaticlabs/prysm/releases.atom"
+
+    - id: "Recent"
+      name: "Recent Commits to eth:master"
+      url: "https://github.com/darkforest-eth/eth/commits/master.atom"
+
+    - id: "Recent"
+      name: "Recent Commits to ferveo:master"
+      url: "https://github.com/anoma/ferveo/commits/master.atom"
+
+    - id: "Release"
+      name: "Release notes from akula"
+      url: "https://github.com/akula-bft/akula/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from almonit-plugin"
+      url: "https://github.com/almonit/almonit-plugin/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from aptos-core"
+      url: "https://github.com/aptos-labs/aptos-core/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from argent-contracts"
+      url: "https://github.com/argentlabs/argent-contracts/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from baseline"
+      url: "https://github.com/eea-oasis/baseline/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from beaker"
+      url: "https://github.com/beakerbrowser/beaker/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from celestia-core"
+      url: "https://github.com/celestiaorg/celestia-core/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from consensus-specs"
+      url: "https://github.com/ethereum/eth2.0-specs/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from contracts"
+      url: "https://github.com/hermeznetwork/contracts/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from core"
+      url: "https://github.com/aave/lens-protocol/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from eclair-mobile"
+      url: "https://github.com/ACINQ/eclair-wallet/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from electrum"
+      url: "https://github.com/spesmilo/electrum/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from extension"
+      url: "https://github.com/tallycash/tally-extension/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from fe"
+      url: "https://github.com/ethereum/fe/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from green_qt"
+      url: "https://github.com/Blockstream/green_qt/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from hardhat"
+      url: "https://github.com/nomiclabs/hardhat/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from hummingbot"
+      url: "https://github.com/CoinAlpha/hummingbot/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from keep-core"
+      url: "https://github.com/keep-network/keep-core/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from metamask-extension"
+      url: "https://github.com/MetaMask/metamask-extension/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from miden"
+      url: "https://github.com/maticnetwork/miden/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from mina"
+      url: "https://github.com/MinaProtocol/mina/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from mobilecoin"
+      url: "https://github.com/mobilecoinfoundation/mobilecoin/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from motoko"
+      url: "https://github.com/dfinity/motoko/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from MyCrypto"
+      url: "https://github.com/MyCryptoHQ/MyCrypto/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from MyEtherWallet"
+      url: "https://github.com/MyEtherWallet/MyEtherWallet/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from nightfall_3"
+      url: "https://github.com/EYBlockchain/nightfall_3/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from Planet"
+      url: "https://github.com/Planetable/Planet/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from protocol-monorepo"
+      url: "https://github.com/superfluid-finance/protocol-monorepo/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from rust-lightning"
+      url: "https://github.com/rust-bitcoin/rust-lightning/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from safe-contracts"
+      url: "https://github.com/gnosis/safe-contracts/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from safe-ios"
+      url: "https://github.com/gnosis/safe-ios/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from safe-react"
+      url: "https://github.com/gnosis/safe-react/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from siwe"
+      url: "https://github.com/spruceid/siwe/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from snarkVM"
+      url: "https://github.com/AleoHQ/snarkVM/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from sparrow"
+      url: "https://github.com/sparrowwallet/sparrow/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from specter-desktop"
+      url: "https://github.com/cryptoadvance/specter-desktop/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from synthetix"
+      url: "https://github.com/Synthetixio/synthetix/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from venus"
+      url: "https://github.com/filecoin-project/go-filecoin/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from wallet"
+      url: "https://github.com/liquality/wallet/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from WalletWasabi"
+      url: "https://github.com/zkSNACKs/WalletWasabi/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from zcash-ios-wallet"
+      url: "https://github.com/zcash/zcash-ios-wallet/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from zebra"
+      url: "https://github.com/ZcashFoundation/zebra/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from zkevm-circuits"
+      url: "https://github.com/appliedzkp/zkevm-circuits/releases.atom"
+
+    - id: "Release"
+      name: "Release notes from zodiac"
+      url: "https://github.com/gnosis/zodiac/releases.atom"
+
+    - id: "Remix-desktop"
+      name: "Remix-desktop"
+      url: "https://github.com/ethereum/remix-desktop/releases.atom"
+
+    - id: "risc0"
+      name: "risc0"
+      url: "https://github.com/risc0/risc0/releases.atom"
+
+    - id: "Rosetta-specifications"
+      name: "Rosetta-specifications"
+      url: "https://github.com/coinbase/rosetta-specifications/releases.atom"
+
+    - id: "Rotki"
+      name: "Rotki"
+      url: "https://github.com/rotki/rotki/releases.atom"
+
+    - id: "RSS"
+      name: "RSS Aggregator for Web3"
+      url: "https://github.com/chainfeeds/RSSAggregatorforWeb3/releases.atom"
+
+    - id: "Seaport"
+      name: "Seaport from Opensea"
+      url: "https://github.com/ProjectOpenSea/seaport/releases.atom"
+
+    - id: "Secret"
+      name: "Secret Network"
+      url: "https://github.com/scrtlabs/SecretNetwork/releases.atom"
+
+    - id: "semaphore"
+      name: "semaphore"
+      url: "https://github.com/semaphore-protocol/semaphore/releases.atom"
+
+    - id: "snarkOS"
+      name: "snarkOS by Aleo"
+      url: "https://github.com/AleoHQ/snarkOS/releases.atom"
+
+    - id: "Solana"
+      name: "Solana"
+      url: "https://github.com/solana-labs/solana/releases.atom"
+
+    - id: "Solidity"
+      name: "Solidity"
+      url: "https://github.com/ethereum/solidity/releases.atom"
+
+    - id: "StarkEx-contracts"
+      name: "StarkEx-contracts"
+      url: "https://github.com/starkware-libs/starkex-contracts/releases.atom"
+
+    - id: "Status-desktop"
+      name: "Status-desktop"
+      url: "https://github.com/status-im/status-desktop/releases.atom"
+
+    - id: "Status-react"
+      name: "Status-react"
+      url: "https://github.com/status-im/status-react/releases.atom"
+
+    - id: "Substrate"
+      name: "Substrate"
+      url: "https://github.com/paritytech/substrate/releases.atom"
+
+    - id: "Sui"
+      name: "Sui"
+      url: "https://github.com/MystenLabs/sui/releases.atom"
+
+    - id: "Swarm"
+      name: "Swarm Desktop"
+      url: "https://github.com/ethersphere/bee-desktop/releases.atom"
+
+    - id: "Sway"
+      name: "Sway by Fuel"
+      url: "https://github.com/FuelLabs/sway/releases.atom"
+
+    - id: "Tags"
+      name: "Tags from radicle-upstream"
+      url: "https://github.com/radicle-dev/radicle-upstream/tags.atom"
+
+    - id: "Tags"
+      name: "Tags from tor"
+      url: "https://github.com/torproject/tor/tags.atom"
+
+    - id: "Trueblocks-core"
+      name: "Trueblocks-core"
+      url: "https://github.com/TrueBlocks/trueblocks-core/releases.atom"
+
+    - id: "Trust"
+      name: "Trust wallet core"
+      url: "https://github.com/trustwallet/wallet-core/releases.atom"
+
+    - id: "umbrel"
+      name: "umbrel"
+      url: "https://github.com/getumbrel/umbrel/releases.atom"
+
+    - id: "Walletconnect"
+      name: "Walletconnect"
+      url: "https://github.com/WalletConnect/walletconnect-monorepo/releases.atom"
+
+    - id: "Zap-desktop"
+      name: "Zap-desktop"
+      url: "https://github.com/LN-Zap/zap-desktop/releases.atom"
+
+    - id: "ZCash"
+      name: "ZCash"
+      url: "https://github.com/zcash/zcash/releases.atom"
+
+    - id: "Zeus"
+      name: "Zeus"
+      url: "https://github.com/ZeusLN/zeus/releases.atom"
+
+    - id: "zkopru"
+      name: "zkopru"
+      url: "https://github.com/zkopru-network/zkopru/releases.atom"
+
+    - id: "zkSync"
+      name: "zkSync"
+      url: "https://github.com/matter-labs/zksync/releases.atom"
+
+    - id: "0xB10C's"
+      name: "0xB10C's Blog: German Bitcoin freelance developer on 0xB10C's Blog"
+      url: "https://b10c.me/feed.xml"
+
+    - id: "a16z"
+      name: "a16z Crypto"
+      url: "https://a16z.com/category/blockchain-cryptocurrencies/feed/"
+
+    - id: "Alex"
+      name: "Alex Beckett"
+      url: "https://www.alexbeckett.xyz/rss/"
+
+    - id: "AlfaBlok"
+      name: "AlfaBlok"
+      url: "https://alfablok.substack.com/feed"
+
+    - id: "bitcoin-dev"
+      name: "bitcoin-dev blog"
+      url: "https://bitcoin-dev.blog/feed.xml"
+
+    - id: "BTC"
+      name: "BTC Study (Chinese)"
+      url: "https://www.btcstudy.org/atom.xml"
+
+    - id: "Chainalysis"
+      name: "Chainalysis"
+      url: "https://blog.chainalysis.com/feed/"
+
+    - id: "Cobie"
+      name: "Cobie"
+      url: "https://cobie.substack.com/feed"
+
+    - id: "Cypherpunk"
+      name: "Cypherpunk Cogitations"
+      url: "https://blog.lopp.net/rss/"
+
+    - id: "Dan"
+      name: "Dan Finlay"
+      url: "https://mirror.xyz/0x55e2780588aa5000F464f700D2676fD0a22Ee160/feed/atom"
+
+    - id: "Dankrad"
+      name: "Dankrad Feist"
+      url: "https://dankradfeist.de/feed.xml"
+
+    - id: "Elliptic"
+      name: "Elliptic Blog"
+      url: "https://www.elliptic.co/blog/rss.xml"
+
+    - id: "freeyao"
+      name: "freeyao (Chinese)"
+      url: "https://mirror.xyz/0xbeC73ba0817403cd11C11bE891D671EA30443562/feed/atom"
+
+    - id: "Fundamental"
+      name: "Fundamental Labs"
+      url: "https://mirror.xyz/fundamentalabs.eth/feed/atom"
+
+    - id: "GCR"
+      name: "GCR"
+      url: "https://globalcoinresearch.com/feed/"
+
+    - id: "Guoyu"
+      name: "Guoyu (Chinese)"
+      url: "http://guoyu.mirror.xyz/feed/atom"
+
+    - id: "Konrad"
+      name: "Konrad S. Graf"
+      url: "http://feeds.feedburner.com/Blog-KonradSGraf"
+
+    - id: "Linda"
+      name: "Linda Xie"
+      url: "https://linda.mirror.xyz/feed/atom"
+
+    - id: "Luyao"
+      name: "Luyao Zhang (Chinese)"
+      url: "https://zhangluyao.com/index.xml"
+
+    - id: "Lyn"
+      name: "Lyn Alden"
+      url: "https://www.lynalden.com/feed/"
+
+    - id: "Maven11"
+      name: "Maven11 Research"
+      url: "https://maven11.substack.com/feed"
+
+    - id: "Multicoin"
+      name: "Multicoin Capital"
+      url: "https://multicoin.capital/rss.xml"
+
+    - id: "NAKAMOTO"
+      name: "NAKAMOTO"
+      url: "https://nakamoto.com/rss/"
+
+    - id: "Newcomer"
+      name: "Newcomer"
+      url: "https://www.newcomer.co/feed"
+
+    - id: "Outlier"
+      name: "Outlier Ventures"
+      url: "https://outlierventures.io/feed/"
+
+    - id: "palkeo"
+      name: "palkeo"
+      url: "https://www.palkeo.com/blog/atom.xml"
+
+    - id: "Paradigm"
+      name: "Paradigm"
+      url: "https://www.paradigm.xyz/rss/feed.xml"
+
+    - id: "Placeholder"
+      name: "Placeholder Blog - Placeholder"
+      url: "https://www.placeholder.vc/blog?format=RSS"
+
+    - id: "polynya"
+      name: "polynya"
+      url: "https://polynya.mirror.xyz/feed/atom"
+
+    - id: "Research"
+      name: "Research | Outlier Ventures"
+      url: "https://outlierventures.io/research/feed/"
+
+    - id: "samczsun"
+      name: "samczsun"
+      url: "https://samczsun.com/rss/"
+
+    - id: "The"
+      name: "The TIE Research"
+      url: "https://research.thetie.io/feed/"
+
+    - id: "TradeBlock"
+      name: "TradeBlock"
+      url: "http://feeds.feedburner.com/tradeblockfeed"
+
+    - id: "Trail"
+      name: "Trail of Bits Blog"
+      url: "https://blog.trailofbits.com/feed/"
+
+    - id: "Unenumerated"
+      name: "Unenumerated"
+      url: "https://unenumerated.blogspot.com/feeds/posts/default"
+
+    - id: "VeradiVerdict"
+      name: "VeradiVerdict"
+      url: "https://veradiverdict.substack.com/feed/"
+
+    - id: "Vitalik"
+      name: "Vitalik Buterin"
+      url: "https://vitalik.ca//./feed.xml"
+
+    - id: "Woobull"
+      name: "Woobull"
+      url: "https://woobull.com/rss/"
+
+    - id: "Wrong"
+      name: "Wrong A Lot (Zee Prime Capital)"
+      url: "https://wrongalot.substack.com/feed"
+
+    - id: "a16z"
+      name: "a16z Podcast"
+      url: "https://feeds.simplecast.com/JGE3yC0V"
+
+    - id: "Bankless"
+      name: "Bankless"
+      url: "http://feeds.libsyn.com/247424/rss"
+
+    - id: "Bitcoin"
+      name: "Bitcoin Magazine Podcast - Bitcoin Magazine"
+      url: "https://bitcoinmagazine.com/.rss/full/tags/bitcoin-magazine-podcast"
+
+    - id: "HODLong"
+      name: "HODLong 后浪"
+      url: "https://feeds.simplecast.com/lnmJvIXR"
+
+    - id: "Trail"
+      name: "Trail of Bits"
+      url: "https://feeds.simplecast.com/oM_1xVen"
+
+    - id: "Unchained"
+      name: "Unchained Podcast"
+      url: "https://unchainedpodcast.com/feed/"
+
+    - id: "Uncommon"
+      name: "Uncommon Core by Su Zhu and Hasu"
+      url: "https://uncommoncore.co/feed/"
+
+    - id: "Up"
+      name: "Up Only"
+      url: "https://uponly.tv/feed/"
+
+    - id: "Web3无名说"
+      name: "Web3无名说"
+      url: "https://anchor.fm/s/8dd87bb4/podcast/rss"
+
+    - id: "ZK"
+      name: "ZK Podcast"
+      url: "https://zeroknowledge.fm/feed/"
+
+    - id: "Ethereum"
+      name: "Ethereum Research - Latest posts"
+      url: "https://ethresear.ch/posts.rss"
+
+    - id: "Ethereum"
+      name: "Ethereum Research - Latest topics"
+      url: "https://ethresear.ch/latest.rss"
 
 
     # 自定义源示例
