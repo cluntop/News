@@ -140,7 +140,6 @@ rss:
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
-
     - id: "Aave"
       name: "Aave"
       url: "https://aave.mirror.xyz/feed/atom"
@@ -213,14 +212,6 @@ rss:
       name: "ChainFeeds"
       url: "http://mirror.xyz/chainfeeds.eth/feed/atom"
 
-    - id: "Chainlink"
-      name: "Chainlink"
-      url: "https://blog.chain.link/rss/"
-
-    - id: "CityDAO"
-      name: "CityDAO"
-      url: "http://city.mirror.xyz/feed/atom"
-
     - id: "Coin"
       name: "Coin Center"
       url: "https://www.coincenter.org/feed"
@@ -265,10 +256,6 @@ rss:
       name: "Ghost"
       url: "https://ghost.org/changelog/rss/"
 
-    - id: "Gnosis"
-      name: "Gnosis Safe"
-      url: "https://safe.mirror.xyz/feed/atom"
-
     - id: "Golem"
       name: "Golem"
       url: "https://blog.golemproject.net/feed"
@@ -277,21 +264,9 @@ rss:
       name: "Grayscale Investments"
       url: "https://www.globenewswire.com/SubscribeToRss/uYBer3uzJgsFPGKc1jORaA%3d%3d"
 
-    - id: "Hang"
-      name: "Hang"
-      url: "https://mirror.xyz/0x86D4b75B33989e04cfaA630d243642a7784e06ED/feed/atom"
-
-    - id: "Hop"
-      name: "Hop"
-      url: "https://hop.mirror.xyz/feed/atom"
-
     - id: "Hyperledger"
       name: "Hyperledger"
       url: "https://www.hyperledger.org/feed"
-
-    - id: "IDEX"
-      name: "IDEX Blog"
-      url: "https://blog.idex.io/all-posts?format=rss"
 
     - id: "IPFS"
       name: "IPFS Blog & News"
@@ -301,14 +276,6 @@ rss:
       name: "Keep Network - Medium"
       url: "https://blog.keep.network/feed"
 
-    - id: "Keystone"
-      name: "Keystone Wallet"
-      url: "https://blog.keyst.one/feed"
-
-    - id: "Keystone"
-      name: "Keystone Wallet (Chinese)"
-      url: "https://mirror.xyz/keystonecn.eth/feed/atom"
-
     - id: "Kraken"
       name: "Kraken Blog"
       url: "https://blog.kraken.com/feed/"
@@ -317,41 +284,13 @@ rss:
       name: "KYVE - Medium"
       url: "https://blog.kyve.network/feed"
 
-    - id: "Ledger"
-      name: "Ledger"
-      url: "https://www.ledger.com/category/blog-posts/feed/"
-
     - id: "LEVERJ"
       name: "LEVERJ - Medium"
       url: "https://blog.leverj.io/feed"
 
-    - id: "Maker"
-      name: "Maker Blog"
-      url: "https://blog.makerdao.com/feed"
-
-    - id: "Mask"
-      name: "Mask Network (Chinese)"
-      url: "https://news.mask.io/zh-Hans/rss-feed.xml"
-
-    - id: "Mechanism"
-      name: "Mechanism Capital"
-      url: "https://www.mechanism.capital/feed/"
-
-    - id: "Mina"
-      name: "Mina Protocol"
-      url: "https://minaprotocol.com/feed"
-
-    - id: "Mirror"
-      name: "Mirror Development"
-      url: "https://dev.mirror.xyz/feed/atom"
-
     - id: "Moralis"
       name: "Moralis"
       url: "https://moralis.io/blog/feed/"
-
-    - id: "NEAR"
-      name: "NEAR Protocol"
-      url: "https://nearprotocol.com/feed/"
 
     - id: "Neo"
       name: "Neo blog posts list"
@@ -365,21 +304,9 @@ rss:
       name: "NODE from Voyager"
       url: "https://www.investvoyager.com/blog/rss"
 
-    - id: "Nomics"
-      name: "Nomics Blog"
-      url: "https://blog.nomics.com/feed/"
-
-    - id: "NuCypher"
-      name: "NuCypher"
-      url: "https://blog.nucypher.com/rss/"
-
     - id: "OpenNode"
       name: "OpenNode Blog"
       url: "https://www.opennode.co/blog/feed/"
-
-    - id: "OpenZeppelin"
-      name: "OpenZeppelin blog"
-      url: "https://blog.openzeppelin.com/feed/"
 
     - id: "Orchid"
       name: "Orchid RSS feed"
@@ -392,50 +319,6 @@ rss:
     - id: "PayPal"
       name: "PayPal Newsroom"
       url: "https://newsroom.paypal-corp.com/news?pagetemplate=rss"
-
-    - id: "Percent"
-      name: "Percent"
-      url: "https://withcadence.io/feed/"
-
-    - id: "Pods"
-      name: "Pods - Medium"
-      url: "https://blog.pods.finance/feed"
-
-    - id: "Polkadot"
-      name: "Polkadot Network"
-      url: "https://polkadot.network/blog/feed"
-
-    - id: "Propine"
-      name: "Propine"
-      url: "https://www.propine.com/feed/"
-
-    - id: "RabbitHole"
-      name: "RabbitHole"
-      url: "https://rabbithole.mirror.xyz/feed/atom"
-
-    - id: "Radicle"
-      name: "Radicle"
-      url: "https://radicle.mirror.xyz/feed/atom"
-
-    - id: "Revolut"
-      name: "Revolut Blog"
-      url: "https://blog.revolut.com/rss"
-
-    - id: "RISC"
-      name: "RISC Zero Blog"
-      url: "https://www.risczero.com/blog/rss.xml"
-
-    - id: "Roll"
-      name: "Roll – the new standard in social money"
-      url: "https://tryroll.com/feed/"
-
-    - id: "Samourai"
-      name: "Samourai Wallet"
-      url: "https://blog.samouraiwallet.com/rss"
-
-    - id: "ScopeLift"
-      name: "ScopeLift - High Caliber Crypto"
-      url: "https://www.scopelift.co/blog?format=rss"
 
     - id: "Scroll"
       name: "Scroll"
@@ -465,10 +348,6 @@ rss:
       name: "Spruce"
       url: "https://blog.spruceid.com/rss"
 
-    - id: "Stacks"
-      name: "Stacks Blog – Apps and smart contracts for Bitcoin"
-      url: "https://blog.blockstack.org/feed/"
-
     - id: "Synthetix"
       name: "Synthetix Blog"
       url: "https://blog.synthetix.io/rss/"
@@ -481,53 +360,37 @@ rss:
       name: "tbDEX - @TBD54566975"
       url: "https://tbd54566975.ghost.io/rss/"
 
-    - id: "The"
+    - id: "The3"
       name: "The BitPay Blog"
       url: "https://bitpay.com/blog/feed"
 
-    - id: "The"
+    - id: "The4"
       name: "The Ceramic Blog"
       url: "https://blog.ceramic.network/rss/"
 
-    - id: "The"
-      name: "The Coinbase Blog - Medium"
-      url: "https://blog.coinbase.com/feed"
-
-    - id: "The"
+    - id: "The5"
       name: "The DeversiFi Blog"
       url: "https://blog.ethfinex.com/rss/"
 
-    - id: "The"
+    - id: "The6"
       name: "The Optimism Collective"
       url: "https://optimism.mirror.xyz/feed/atom"
 
-    - id: "The"
+    - id: "The7"
       name: "The Optimistic Dev Blog"
       url: "https://dev.optimism.io/rss/"
 
-    - id: "The"
+    - id: "The8"
       name: "The Rook Blog"
       url: "https://blog.rook.fi/rss/"
-
-    - id: "Truebit"
-      name: "Truebit Network Sync"
-      url: "https://truebit.substack.com/feed"
 
     - id: "Umbrel"
       name: "Umbrel Blog - Medium"
       url: "https://blog.getumbrel.com/feed"
 
-    - id: "Uphold"
-      name: "Uphold Blog"
-      url: "https://uphold.com/en/blog/feed"
-
     - id: "Utopia"
       name: "Utopia Labs"
       url: "https://mirror.xyz/utopialabs.eth/feed/atom"
-
-    - id: "WalletConnect"
-      name: "WalletConnect — Mirror"
-      url: "http://walletconnect.submirror.xyz/"
 
     - id: "Wasabi"
       name: "Wasabi Wallet Blog"
@@ -537,20 +400,8 @@ rss:
       name: "Xage Security"
       url: "https://xage.com/feed/"
 
-    - id: "Zcash"
-      name: "Zcash foundation"
-      url: "https://zfnd.org/feed/"
-
-    - id: "Zeitgeist"
-      name: "Zeitgeist"
-      url: "https://blog.zeitgeist.pm/rss/"
-
-    - id: "ZenGo"
-      name: "ZenGo – Bitcoin & Cryptocurrency Wallet"
-      url: "https://zengo.com/feed/"
-
-    - id: "Zilliqa — Official"
-      name: "Zilliqa — Official Blog - Medium"
+    - id: "Zilliqa"
+      name: "Zilliqa—Official Blog - Medium"
       url: "https://blog.zilliqa.com/feed"
 
     - id: "BlockTempo"
@@ -560,10 +411,6 @@ rss:
     - id: "Blockworks"
       name: "Blockworks"
       url: "https://blockworks.co/feed/"
-
-    - id: "ChainFeeds"
-      name: "ChainFeeds Selected (Chinese)"
-      url: "https://www.chainfeeds.xyz/rss"
 
     - id: "CoinDesk"
       name: "CoinDesk"
@@ -581,10 +428,6 @@ rss:
       name: "Crypto Briefing"
       url: "https://cryptobriefing.com/feed/"
 
-    - id: "Crypto"
-      name: "Crypto News on Seeking Alpha"
-      url: "https://seekingalpha.com/news/crypto/feed"
-
     - id: "Decrypt"
       name: "Decrypt"
       url: "https://decryptmedia.com/feed/"
@@ -596,10 +439,6 @@ rss:
     - id: "Hacker"
       name: "Hacker Noon"
       url: "https://hackernoon.com/feed"
-
-    - id: "Messari"
-      name: "Messari Crypto News Feed"
-      url: "https://messari.io/rss"
 
     - id: "TechCrunch"
       name: "TechCrunch - Bitcoin"
@@ -617,33 +456,9 @@ rss:
       name: "Bitcoin Optech"
       url: "https://bitcoinops.org/feed.xml"
 
-    - id: "Boardroom"
-      name: "Boardroom"
-      url: "https://governance.substack.com/feed"
-
-    - id: "ChainBreaker"
-      name: "ChainBreaker (Chinese)"
-      url: "https://submirror.xyz/0xchainbreaker.eth"
-
-    - id: "ChainFeeds"
-      name: "ChainFeeds Selection"
-      url: "https://chainfeeds.substack.com/feed"
-
-    - id: "ChainFeeds"
-      name: "ChainFeeds Selection — Mirror"
-      url: "https://submirror.xyz/feedselection.eth"
-
-    - id: "Coin"
-      name: "Coin Metrics' State of the Network"
-      url: "https://coinmetrics.substack.com/feed"
-
     - id: "DeFi"
       name: "DeFi Weekly"
       url: "https://defiweekly.substack.com/feed"
-
-    - id: "DotLeap"
-      name: "DotLeap"
-      url: "https://dotleap.substack.com/feed"
 
     - id: "Dove"
       name: "Dove Dispatch"
@@ -653,14 +468,6 @@ rss:
       name: "EthHub"
       url: "https://ethhub.substack.com/feed"
 
-    - id: "Grin"
-      name: "Grin Newsletter"
-      url: "https://grinnews.substack.com/feed"
-
-    - id: "MatrixDAO’s"
-      name: "MatrixDAO’s Newsletter"
-      url: "https://matrixdao.substack.com/feed"
-
     - id: "mcdao"
       name: "mcdao"
       url: "https://mcdao.mirror.xyz/feed/atom"
@@ -669,31 +476,11 @@ rss:
       name: "MinerUpdate"
       url: "https://minerupdate.substack.com/feed"
 
-    - id: "Mirror"
-      name: "Mirror DAO"
-      url: "https://dao.mirror.xyz/feed/atom"
-
     - id: "O’Reilly"
       name: "O’Reilly Radar"
       url: "http://www.oreilly.com/radar/feed/index.xml"
 
-    - id: "Orange"
-      name: "Orange Paper (Chinese)"
-      url: "https://orangexyz.mirror.xyz/feed/atom"
-
-    - id: "Proof"
-      name: "Proof of Work"
-      url: "https://proofofwork.news/feed"
-
-    - id: "StarkNet"
-      name: "StarkNet CN (Chinese)"
-      url: "https://starknetzh.substack.com/feed"
-
-    - id: "The"
-      name: "The Daily Gwei"
-      url: "https://thedailygwei.substack.com/feed"
-
-    - id: "The"
+    - id: "The1"
       name: "The Defiant"
       url: "https://thedefiant.substack.com/feed"
 
@@ -708,10 +495,6 @@ rss:
     - id: "Anoma"
       name: "Anoma"
       url: "https://github.com/anoma/anoma/releases.atom"
-
-    - id: "Arbitrum"
-      name: "Arbitrum"
-      url: "https://github.com/OffchainLabs/arbitrum/releases.atom"
 
     - id: "Ardrive-web"
       name: "Ardrive-web"
@@ -989,14 +772,6 @@ rss:
       name: "Recent Commits to eth:master"
       url: "https://github.com/darkforest-eth/eth/commits/master.atom"
 
-    - id: "Recent"
-      name: "Recent Commits to ferveo:master"
-      url: "https://github.com/anoma/ferveo/commits/master.atom"
-
-    - id: "Release"
-      name: "Release notes from akula"
-      url: "https://github.com/akula-bft/akula/releases.atom"
-
     - id: "Release"
       name: "Release notes from almonit-plugin"
       url: "https://github.com/almonit/almonit-plugin/releases.atom"
@@ -1136,10 +911,6 @@ rss:
     - id: "Release"
       name: "Release notes from specter-desktop"
       url: "https://github.com/cryptoadvance/specter-desktop/releases.atom"
-
-    - id: "Release"
-      name: "Release notes from synthetix"
-      url: "https://github.com/Synthetixio/synthetix/releases.atom"
 
     - id: "Release"
       name: "Release notes from venus"
@@ -1285,26 +1056,6 @@ rss:
       name: "zkSync"
       url: "https://github.com/matter-labs/zksync/releases.atom"
 
-    - id: "0xB10C's"
-      name: "0xB10C's Blog: German Bitcoin freelance developer on 0xB10C's Blog"
-      url: "https://b10c.me/feed.xml"
-
-    - id: "a16z"
-      name: "a16z Crypto"
-      url: "https://a16z.com/category/blockchain-cryptocurrencies/feed/"
-
-    - id: "Alex"
-      name: "Alex Beckett"
-      url: "https://www.alexbeckett.xyz/rss/"
-
-    - id: "AlfaBlok"
-      name: "AlfaBlok"
-      url: "https://alfablok.substack.com/feed"
-
-    - id: "bitcoin-dev"
-      name: "bitcoin-dev blog"
-      url: "https://bitcoin-dev.blog/feed.xml"
-
     - id: "BTC"
       name: "BTC Study (Chinese)"
       url: "https://www.btcstudy.org/atom.xml"
@@ -1312,10 +1063,6 @@ rss:
     - id: "Chainalysis"
       name: "Chainalysis"
       url: "https://blog.chainalysis.com/feed/"
-
-    - id: "Cobie"
-      name: "Cobie"
-      url: "https://cobie.substack.com/feed"
 
     - id: "Cypherpunk"
       name: "Cypherpunk Cogitations"
@@ -1337,18 +1084,6 @@ rss:
       name: "freeyao (Chinese)"
       url: "https://mirror.xyz/0xbeC73ba0817403cd11C11bE891D671EA30443562/feed/atom"
 
-    - id: "Fundamental"
-      name: "Fundamental Labs"
-      url: "https://mirror.xyz/fundamentalabs.eth/feed/atom"
-
-    - id: "GCR"
-      name: "GCR"
-      url: "https://globalcoinresearch.com/feed/"
-
-    - id: "Guoyu"
-      name: "Guoyu (Chinese)"
-      url: "http://guoyu.mirror.xyz/feed/atom"
-
     - id: "Konrad"
       name: "Konrad S. Graf"
       url: "http://feeds.feedburner.com/Blog-KonradSGraf"
@@ -1365,18 +1100,6 @@ rss:
       name: "Lyn Alden"
       url: "https://www.lynalden.com/feed/"
 
-    - id: "Maven11"
-      name: "Maven11 Research"
-      url: "https://maven11.substack.com/feed"
-
-    - id: "Multicoin"
-      name: "Multicoin Capital"
-      url: "https://multicoin.capital/rss.xml"
-
-    - id: "NAKAMOTO"
-      name: "NAKAMOTO"
-      url: "https://nakamoto.com/rss/"
-
     - id: "Newcomer"
       name: "Newcomer"
       url: "https://www.newcomer.co/feed"
@@ -1389,10 +1112,6 @@ rss:
       name: "palkeo"
       url: "https://www.palkeo.com/blog/atom.xml"
 
-    - id: "Paradigm"
-      name: "Paradigm"
-      url: "https://www.paradigm.xyz/rss/feed.xml"
-
     - id: "Placeholder"
       name: "Placeholder Blog - Placeholder"
       url: "https://www.placeholder.vc/blog?format=RSS"
@@ -1401,21 +1120,9 @@ rss:
       name: "polynya"
       url: "https://polynya.mirror.xyz/feed/atom"
 
-    - id: "Research"
-      name: "Research | Outlier Ventures"
-      url: "https://outlierventures.io/research/feed/"
-
     - id: "samczsun"
       name: "samczsun"
       url: "https://samczsun.com/rss/"
-
-    - id: "The"
-      name: "The TIE Research"
-      url: "https://research.thetie.io/feed/"
-
-    - id: "TradeBlock"
-      name: "TradeBlock"
-      url: "http://feeds.feedburner.com/tradeblockfeed"
 
     - id: "Trail"
       name: "Trail of Bits Blog"
@@ -1424,10 +1131,6 @@ rss:
     - id: "Unenumerated"
       name: "Unenumerated"
       url: "https://unenumerated.blogspot.com/feeds/posts/default"
-
-    - id: "VeradiVerdict"
-      name: "VeradiVerdict"
-      url: "https://veradiverdict.substack.com/feed/"
 
     - id: "Vitalik"
       name: "Vitalik Buterin"
