@@ -19,7 +19,7 @@ jobs:
       models: read
       contents: read
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       # AI 内容审核（垃圾检测 + 链接检测 + AI 生成检测）
       - uses: github/ai-moderator@v1
@@ -36,7 +36,7 @@ jobs:
       # 1) 账号 < 7 天 → 直接删除/关闭
       # 2) 账号 >= 7 天 + AI 判定为垃圾 → 也删除/关闭
       - name: Spam defense
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const MIN_ACCOUNT_AGE_DAYS = 7;
